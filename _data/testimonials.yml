@@ -1,5 +1,41 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: I had such a nightmare situation when I met Greg, I was in a divorce and upside down on a short sale so he not only had to get signatures from me, but from my ex-wife as well. It was twice the work but he was as sharp as a tack and did everything he said he was going to do. We had a plethora of problems that don’t occur in a normal transaction but he just dealt with every aspect of it. I’m definitely going to use him in the future, I’d never go anywhere else.
+    name: Larry
+    audio: /uploads/audio/larry.mp3
+
+  - quote: The results were fantastic. We were able to get our condo sold. We got an amazing price on the sale of our condo. Very professional, knowledgeable about the staging and what we should do to present it and any repairs we needed to make. It sold fast. We put it on the market on a Tuesday, had an open house, and we were under contract the following Wednesday. On the purchase of our new home, which we are actually moving in tomorrow, it went very well also. They did a good job negotiating and I feel like we got a fair price. We definitely love the place we got. Greg was our Realtor, but we worked with Eileen, worked with Chris a little bit and Denise as well. They had a good service staff and team to help support the entire process. They did all the things I would expect a really good Realtor to do.
+    name: Joe
+    audio: /uploads/audio/joe.mp3
+
+  - quote: They exceeded my expectations! They really alleviated my stress by always being available, always listening, and giving me advise. I never felt like I was backed into a corner, and always got a great deal of respect from them!
+    name: Stan
+    audio: /uploads/audio/stan.mp3
+
+  - quote: They were extremely thorough, and did a great job marketing our property! They were excellent to work with and always kept us in the loop. If I had a question and left a message for them, Greg or Eileen would call me back within minutes! They even threw a "Bon Voyage" party for us and invited the whole neighborhood. They were very accommodating and outstanding throughout the process.
+    name: Jeff
+    audio: /uploads/audio/jeff.mp3
+
+  - quote: We got great results and are happy with them. They did a good job with the open houses and had a great stager. They also identified a good moving company for us to use. The team helped us above and beyond!
+    name: Alan
+    audio: /uploads/audio/alan.mp3
+
+  - quote: I got the property that I wanted. They were at disposal to answer questions, help me investigate various properties, and they endured my timing. I dealt primarily with Chris Callahan. He was always available whenever I needed him. He was very responsive!
+    name: Roger
+    audio: /uploads/audio/roger.mp3
+
+  - quote: The results that we got when we worked with the McDaniel Callahan Group was absolutely wonderful, it couldn’t have been better! They were pleasant people to work with, everything was on time, and it sold pretty much right away. Everything worked like clockwork from securing the buyer, the negotiations, and the way they treated me. I have to tell you, over my time I’ve bought and sold around 10 to 12 houses and the McDaniel Callahan Group outshone other Realtors I had worked with in the past by a lot.
+    name: Jim
+    audio: /uploads/audio/jim.mp3
+
+  - quote: We worked with Chris Callahan and was very happy with his work. He was very responsive and did a great job of finding properties. He was exceptional at listening to what we were looking for and finding us those types of properties to look at. We hadn’t had that experience from previous agents we’ve work with so we were very appreciative of that. We enjoyed working with him and we’ll do it again.
+    name: Phil
+    audio: /uploads/audio/phil.mp3
+
+  - quote: When we started our search, we were a little particular about the house that was were looking for. We probably worked with them for a little over 6 months and then came across a house that we really wanted to look at. We called and one of the agents, Chris, was able to not only show us the home, but we were able to put an offer in that was accepted. Then we were able to move into our dream home!
+    name: Todd
+    audio: /uploads/audio/todd.mp3
+
+  - quote: Everyone that helped me through the process was very professional and I was very happy with the results. They made sure that all the paperwork on the other side was sorted out and taken care of so there wasn’t a delay because the their real estate agent wasn’t necessarily was well versed in the process as the McDaniel Callahan Team.
+    name: Chris
+    audio: /uploads/audio/chris.mp3
