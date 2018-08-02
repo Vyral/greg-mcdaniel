@@ -2070,7 +2070,8 @@ table tr, table td {
 .post-cta {
   font-size: 18px;
   text-align: center;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-weight: bold; }
 
 .socials {
   padding: 0.7rem;
@@ -2586,6 +2587,9 @@ form select {
 
 .whitespace {
   margin-top: 3rem; }
+
+.indent {
+  margin: 0 3rem; }
 
 .recruiting {
   text-align: center; }
