@@ -21,7 +21,7 @@ youtube_code: VVYh4-h2Vlk
 
 {% include youtube.html %}
 
-To thank you for supporting our content, my team and I would like to extend a special offer to you and your family.
+<center>To thank you for supporting our content, my team and I would like to extend a special offer to you and your family.</center>
 
 As of this August, I have been bringing you informative videos about our market for four full years. With that in mind, I want to ask you a simple question: Do you hate me?
 
