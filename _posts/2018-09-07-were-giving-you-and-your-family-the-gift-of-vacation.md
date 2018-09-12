@@ -29,7 +29,7 @@ As of this August, I have been bringing you informative videos about our market 
 
 Of course I’m joking, but the reason I ask is, even after all of this time, some of you have still never reached out. Don’t get me wrong—I understand how busy things can get. In fact, that’s one of the major reasons I do what I do. I want to serve as a convenient resource for all your real estate needs, and today I’d like to offer you something else.&nbsp;
 
-How would you like to go on vacation? &nbsp;Well, now is your chance. All you need to do is visit McDanielCallahanVacation.com to book your stay. Up to two adults and two children can register, so I encourage you and your family to take advantage of this great opportunity. If you cover airfare and the tax for your hotel rooms, I’ll pay for the rest of any resort package you choose.
+How would you like to go on vacation? &nbsp;Well, now is your chance. All you need to do is visit [McDanielCallahanVacation.com](https://www.mcdanielcallahanvacation.com) to book your stay. Up to two adults and two children can register, so I encourage you and your family to take advantage of this great opportunity. If you cover airfare and the tax for your hotel rooms, I’ll pay for the rest of any resort package you choose.
 
 {% include pullquote.html %}
 
