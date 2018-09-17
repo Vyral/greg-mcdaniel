@@ -22,7 +22,7 @@ youtube_code: mfJQq1s6Aac
 
 {% include youtube.html %}
 
-Our market is going through a slowdown, so if you’re a seller, you need to put your home on the market now.
+<center>Our market is going through a slowdown, so if you’re a seller, you need to put your home on the market now.</center>
 
 Here are some of the latest statistics from our market and what they mean for you:
 
