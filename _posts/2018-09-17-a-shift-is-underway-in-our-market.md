@@ -33,7 +33,7 @@ Here are some of the latest statistics from our market and what they mean for yo
 * The median sale price is $1.3 million.
 * The lowest listing is $298,000, while the highest is $39 million.
 
-At the beginning of the year, the average days on market was 17 days, so we’ve seen a significant uptick since then. **We’re also seeing a significant shift in terms of pricing**. The average list price in the 68 Corridor is $1,142,524 million, while the average sale price is $1,160,757. Although that’s a good-looking list-to-sale price difference, we’re still experiencing a slowdown, and I’m really kind of terrified to see where that’s going.
+At the beginning of the year, the average days on market was 17 days, so we’ve seen a significant uptick since then. **We’re also seeing a significant shift in terms of pricing**. The average list price in the 68 Corridor is $1,142,524, while the average sale price is $1,160,757. Although that’s a good-looking list-to-sale price difference, we’re still experiencing a slowdown, and I’m really kind of terrified to see where that’s going.
 
 {% include pullquote.html %}
 
