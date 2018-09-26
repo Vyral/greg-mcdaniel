@@ -22,7 +22,9 @@ youtube_code: MR_RKnI0NQA
 
 {% include youtube.html %}
 
-<center>You might not realize it, but you could be sabotaging your own home sale. Here are nine things that can turn buyers off your listing.</center>
+<center><em>You might not realize it, but you could be sabotaging your own home sale. Here are nine things that can turn buyers off your listing.</em></center>
+
+&nbsp;
 
 There are nine silly little things you could be unknowingly doing that will sabotage the sale of your home.
 
