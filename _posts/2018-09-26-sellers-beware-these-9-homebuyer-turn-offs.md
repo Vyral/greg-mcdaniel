@@ -30,7 +30,7 @@ There are nine silly little things you could be unknowingly doing that will sabo
 
 **1. Pesky hanging cords**. Yes, it seems small and insignificant, but the cords that hang down behind a mounted TV might put buyers on watch for other issues in the home that make it look messy. Just tuck those cords up and away before giving people a tour of the home.
 
-**2. An unkempt yard**. No one likes a mess, especially when they’re planning to spend thousands upon thousands of dollars on it. Buyers want to see a clean, crisp yard with nice ground cover and well-cut grass.
+**2. An unkept yard**. No one likes a mess, especially when they’re planning to spend thousands upon thousands of dollars on it. Buyers want to see a clean, crisp yard with nice ground cover and well-cut grass.
 
 **3. A dingy front door**. Replacing your front door and/or garage door can bring you up to a 100% ROI, so if your door is dinged up or sun-faded, do yourself (and your wallet) a favor and replace or repair it.
 
@@ -42,9 +42,9 @@ There are nine silly little things you could be unknowingly doing that will sabo
 
 **6. Poor furniture arrangement**. This is why it’s critical to consult a stager—we can’t sell houses the same way we live in them. When you work with us, we pay for a stager to come in to arrange everything to look nice and inviting.
 
-**7. Junk drawers and crammed cabinets**. Buyers are naturally going to look inside cabinets and drawers, so if yours are jam-packed full of odds and ends, it’ll put them off. Thin out some of your possessions to make your home showable.
+**7. Junk drawers and crammed cabinets**. Buyers are naturally going to look inside cabinets and drawers, so if yours are jam-packed full of odds and ends, it’ll turn them off. Thin out some of your possessions to make your home showable.
 
-**8. Messy closets**. People look in closets to try to imagine what it would look like if it held their own possessions, but imagining that is hard to do if your closet is crammed full. Take a weekend to declutter your closet space, and your buyers will thank you for it.
+**8. Messy closets**. People look in closets to try to imagine what it would look like if it held their own possessions, but imagining that is hard to do if your closet is crammed full. Take a weekend to declutter your closet space and your buyers will thank you for it.
 
 **9. Cluttered countertops**. Move the sundry items you keep on your counters to a storage space. People want to be able to picture themselves living in your home, but they won’t be able to if it’s not clean and crisp.
 
