@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-mcdaniel-sept-2-ss-no-play.jpg
-youtube_code: MR_RKnI0NQA
+youtube_code: E_G08RKNdEg
 ---
 
 {% include youtube.html %}
 
 <center><em>You might not realize it, but you could be sabotaging your own home sale. Here are nine things that can turn buyers off your listing.</em></center>
 
-&nbsp;
+ 
 
 There are nine silly little things you could be unknowingly doing that will sabotage the sale of your home.
 
