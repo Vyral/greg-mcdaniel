@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Halloween Events in the Bay This Year
-date: 2018-10-15 00:00:00
+date: 2018-10-15 15:00:00
 tags:
   - Real Estate
 excerpt: >-
