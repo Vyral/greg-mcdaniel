@@ -19,7 +19,7 @@ youtube_code: Hx6uV17z-Dg
 
 {% include youtube.html %}
 
-Are you ready for some fun in the Bay Area this Halloween? Here are the events that you need to attend this month.
+<center>Are you ready for some fun in the Bay Area this Halloween? Here are the events that you need to attend this month.</center>
 
 Welcome to Fun in the Bay: Halloween Edition. We have some really fun events coming up in the area that we want to give you the lowdown on today.
 
