@@ -1358,6 +1358,14 @@ html[xmlns] .flexslider .slides {
     text-decoration: none;
     color: #b40101; }
 
+#nav-cta {
+  background: #b40101; }
+  #nav-cta a {
+    color: #ffffff !important; }
+    #nav-cta a:hover {
+      background: #999;
+      color: #b40101; }
+
 .cta {
   background: transparent;
   color: #123456;
