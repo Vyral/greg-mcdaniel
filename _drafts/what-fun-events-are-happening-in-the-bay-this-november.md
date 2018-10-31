@@ -19,7 +19,7 @@ youtube_code: 1D2fswBZyQU
 
 {% include youtube.html %}
 
-If you’re ready to have some fun this November and get into the holiday spirit, here are some events you might be interested in attending.
+<center>If you’re ready to have some fun this November and get into the holiday spirit, here are some events you might be interested in attending.</center>
 
 Now that we’re into November, the holiday season is upon us, and there are some fun events we want to give you the lowdown on for the upcoming month. I’ve provided links for each event so you can find out more details and get your tickets early.
 
