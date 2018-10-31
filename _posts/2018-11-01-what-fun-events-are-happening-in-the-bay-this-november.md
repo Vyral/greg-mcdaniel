@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Fun Events Are Happening in the Bay This November?
-date: 2018-10-31 00:00:00
+date: 2018-11-01 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 1D2fswBZyQU
 
 <center><em>If you&rsquo;re ready to have some fun this November and get into the holiday spirit, here are some events you might be interested in attending.</em></center>
 
-&nbsp;
+ 
 
 Now that we’re into November, the holiday season is upon us, and there are some fun events we want to give you the lowdown on for the upcoming month. I’ve provided links for each event so you can find out more details and get your tickets early.
 
