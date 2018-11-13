@@ -23,7 +23,7 @@ youtube_code: nsQdO9nh3Rc
 
 {% include youtube.html %}
 
-There are six big mistakes you need to avoid if you’re thinking about relocating.
+<center>There are six big mistakes you need to avoid if you’re thinking about relocating.</center>
 
 Are you thinking about relocating? Here are six big mistakes you need to avoid:
 
