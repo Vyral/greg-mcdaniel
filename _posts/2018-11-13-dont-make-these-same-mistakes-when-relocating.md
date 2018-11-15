@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-mcdaniel-nov-2-ss-no-play.jpg
-youtube_code: nsQdO9nh3Rc
+youtube_code: '-dqfjdf9LFo'
 ---
 
 {% include youtube.html %}
@@ -39,7 +39,7 @@ Are you thinking about relocating? Here are six big mistakes you need to avoid:
 
 **4. Renting out your old home before considering all the factors**. There’s no going back when your renters sign their part of the contract, so make sure you consider all the variables of the area you’re moving to before you rent out your old house.&nbsp;
 
-**5. Not researching the schools in your area before you move**. You want to make sure your kids get into the best school possible, so be sure and research the schools in your area so they get the best education for their future.&nbsp;
+**5. Not researching the schools in your area before you move**. You want to make sure your kids get into the best school possible, so be sure to research the schools in your area so they get the best education for their future.&nbsp;
 
 **6. Assuming all of your belongings will arrive on time**. Be proactive, not reactive. Check with your moving company and make sure your furniture and all of your other belongings are scheduled to arrive on the right day.&nbsp;
 
