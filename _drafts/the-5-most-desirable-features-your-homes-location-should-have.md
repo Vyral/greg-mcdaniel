@@ -22,7 +22,7 @@ youtube_code: bwK-SWMKj8s
 
 {% include youtube.html %}
 
-As a homebuyer, there are five aspects of your home’s location that will give you the best return on your investment when it’s time to sell.
+<center>As a homebuyer, there are five aspects of your home’s location that will give you the best return on your investment when it’s time to sell.</center>
 
 We’ve all heard that location is the most important thing in real estate whether you’re buying or selling, but if you’re a buyer, there are five aspects of your home’s location that will give you the best possible return on your investment when it’s time to sell:
 
