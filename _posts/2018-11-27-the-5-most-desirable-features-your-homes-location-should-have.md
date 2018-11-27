@@ -22,7 +22,9 @@ youtube_code: bwK-SWMKj8s
 
 {% include youtube.html %}
 
-<center>As a homebuyer, there are five aspects of your home’s location that will give you the best return on your investment when it’s time to sell.</center>
+<center><em>As a homebuyer, there are five aspects of your home&rsquo;s location that will give you the best return on your investment when it&rsquo;s time to sell.</em></center>
+
+&nbsp;
 
 We’ve all heard that location is the most important thing in real estate whether you’re buying or selling, but if you’re a buyer, there are five aspects of your home’s location that will give you the best possible return on your investment when it’s time to sell:
 
@@ -38,6 +40,6 @@ We’ve all heard that location is the most important thing in real estate wheth
 
 **5. Quick access to public transportation and/or any major roads and freeways**. The freeway shouldn’t be bordering your backyard, but if you can get there in a few minutes from your home, that’s a big plus. In fact, that’s one of the reasons I bought my home—I can get on I-680 or I-24 in no time at all.
 
-Now that we know the most desirable locational features, what are some of the least desirable? Generally, you don’t want your home to be located right next to any hospitals, airports, or schools. If it’s next to a hospital, you risk hearing ambulances drive by your house at all hours of the night. If it’s next to an airport, you might hear jumbo jets landing 24/7. If it’s right next to a school, you might have to hear parents dropping off and picking up their kids nine months out of the year. &nbsp;
+Now that we know the most desirable locational features, what are some of the least desirable? Generally, you don’t want your home to be located right next to any hospitals, airports, or schools. If it’s next to a hospital, you risk hearing ambulances drive by your house at all hours of the night. If it’s next to an airport, you might hear jumbo jets landing 24/7. If it’s right next to a school, you might have to hear parents dropping off and picking up their kids nine months out of the year.
 
 If you have any more questions about this topic or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
