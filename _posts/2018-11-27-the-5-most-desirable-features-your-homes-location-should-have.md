@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   As a homebuyer, there are five aspects of your home’s location that will give
-  you the best return on your investment when it’s time to sell.
+  you the best return on your investment.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+The+5+Most+Desirable+Features+Your+Homes+Location+Should+Have.mp4
 pullquote: >-
@@ -24,13 +24,13 @@ youtube_code: bwK-SWMKj8s
 
 <center><em>As a homebuyer, there are five aspects of your home&rsquo;s location that will give you the best return on your investment when it&rsquo;s time to sell.</em></center>
 
-&nbsp;
+ 
 
 We’ve all heard that location is the most important thing in real estate whether you’re buying or selling, but if you’re a buyer, there are five aspects of your home’s location that will give you the best possible return on your investment when it’s time to sell:
 
 **1. A safe surrounding neighborhood**. You want to live in a place where you’d feel comfortable leaving your doors unlocked at night.
 
-&nbsp;**2. Quality nearby schools**. Investing in a home in a good school district is always a better idea than investing in a home in a so-so school district, because the former will only appreciate in value. People will pay a premium to enroll their kids into the best schools possible.
+ **2. Quality nearby schools**. Investing in a home in a good school district is always a better idea than investing in a home in a so-so school district, because the former will only appreciate in value. People will pay a premium to enroll their kids into the best schools possible.
 
 **3. Close proximity to shopping centers, restaurants, bars, etc**. My office is in Westside Danville, and home sellers in this area command a high price because downtown is within walking distance.
 
