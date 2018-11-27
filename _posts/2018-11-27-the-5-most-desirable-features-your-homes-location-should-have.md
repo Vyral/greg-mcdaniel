@@ -5,6 +5,7 @@ date: 2018-11-27 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   As a homebuyer, there are five aspects of your home’s location that will give
   you the best return on your investment.
