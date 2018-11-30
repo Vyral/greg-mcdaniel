@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/greg-mcdaniel-dec-1-ss-no-play.jpg
-youtube_code: RPgADCMCHts
+youtube_code: v1ykvT6qicw
 ---
 
 {% include youtube.html %}
