@@ -21,7 +21,7 @@ youtube_code: N864MuoGzUI
 
 {% include youtube.html %}
 
-Today I’ll provide you with a range of real estate facts that are sure to entertain your brain.
+<center>Today I’ll provide you with a range of real estate facts that are sure to entertain your brain.</center>
 
 Today I’ll expand your knowledge of real estate by treating you to a range of facts and trivia related to the industry. Quiz your friends, family, and co-workers by showing off what you learn here!
 
