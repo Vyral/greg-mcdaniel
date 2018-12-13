@@ -31,7 +31,7 @@ Today I’ll expand your knowledge of real estate by treating you to a range of 
 
 **2. Warren Buffett, the Oracle of Omaha**. Warren Buffett is currently considered the [third richest person in the world](https://www.forbes.com/billionaires/#1bf05b5f251c){: target="_blank"}, according to Forbes magazine. Here’s a fun fact about Mr. Buffett: He currently still lives in his Omaha, Nebraska home that he originally purchased way back in 1958 for a meager $31,500.
 
-**3. Brass door knobs**. Though many people look down on those who purposefully have brass door knobs in their homes, maybe that’s a prejudice to reconsider: Brass door knobs are antibacterial, meaning they disinfect themselves. Other metals like aluminum, iron, lead, silver, also share this quality. On that note, here’s your word of the day: the [oligodynamic effect](https://en.wikipedia.org/wiki/Oligodynamic_effect){: target="_blank"}.
+**3. Brass door knobs**. Though many people look down on those who purposefully have brass door knobs in their homes, maybe that’s a prejudice to reconsider: Brass door knobs are antibacterial, meaning they disinfect themselves. Other metals like aluminum, iron, lead, silver, also share this quality. On that note, here’s your term of the day: the [oligodynamic effect](https://en.wikipedia.org/wiki/Oligodynamic_effect){: target="_blank"}.
 
 **4. The red doors of Scotland**. We all like to put our own personal touches on our homes, but in Scotland, having a red door means something pretty specific—it means [that homeowner has fully paid off their mortgage](http://www.npdodge.com/blog/2015/10/the-tradition-of-painting-a-front-door-red-what-does-it-mean/){: target="_blank"}! What color is your front door?
 
