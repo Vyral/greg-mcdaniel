@@ -20,7 +20,7 @@ youtube_code: EoS73qpFM4E
 
 {% include youtube.html %}
 
-2019 is right around the corner. Stay tuned to find out what you can expect from the real estate market.
+<center>2019 is right around the corner. Stay tuned to find out what you can expect from the real estate market.</center>
 
 Here are the three signs that tell us whether 2019 is going to be a hot market or not:
 
