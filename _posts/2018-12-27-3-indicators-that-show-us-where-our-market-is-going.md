@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-indicators-youtube.jpg
-youtube_code: EoS73qpFM4E
+youtube_code: t9ysTC62BoA
 ---
 
 {% include youtube.html %}
 
 <center><em>2019 is right around the corner. Stay tuned to find out what you can expect from the real estate market.</em></center>
 
-&nbsp;
+ 
 
 Here are the three signs that tell us whether 2019 is going to be a hot market or not:
 
