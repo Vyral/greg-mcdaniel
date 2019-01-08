@@ -19,7 +19,7 @@ youtube_code: y_wcRh37Kfk
 
 {% include youtube.html %}
 
-What’s the effect of student loan debt? Let’s find out.
+<center>What’s the effect of student loan debt? Let’s find out.</center>
 
 Student debt isn’t an issue that affects only students who took out loans: **It affects everyone in real estate**.
 
