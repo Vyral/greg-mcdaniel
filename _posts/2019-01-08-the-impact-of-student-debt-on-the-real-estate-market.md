@@ -4,7 +4,9 @@ title: The Impact of Student Debt on the Real Estate Market
 date: 2019-01-08 00:00:00
 tags:
   - Real Estate
-excerpt: What’s the effect of student loan debt? Let’s find out.
+excerpt: >-
+  What’s the effect of student loan debt on the real estate market? Let’s find
+  out.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+The+Impact+of+Student+Debt+on+the+Real+Estate+Market.mp4
 pullquote: >-
@@ -19,7 +21,7 @@ youtube_code: y_wcRh37Kfk
 
 {% include youtube.html %}
 
-<center><em>What&rsquo;s the effect of student loan debt? Let&rsquo;s find out.</em></center>
+<center><em>What&rsquo;s the effect of student loan debt on the real estate market? Let&rsquo;s find out.</em></center>
 
 &nbsp;
 
