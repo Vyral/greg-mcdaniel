@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Started on Your 2019 Fitness Goals
+title: How to Get Started on Your 2019 Fitness Goals Today
 date: 2019-01-24 00:00:00
 tags:
   - Real Estate
