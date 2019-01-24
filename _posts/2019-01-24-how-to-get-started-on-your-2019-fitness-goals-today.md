@@ -19,7 +19,9 @@ youtube_code: H0-kofFmkiA
 
 {% include youtube.html %}
 
-<center>I’m here with my friend Christina Reese who is helping me tackle my 2019 fitness goals. She wants to help you with your goals as well.</center>
+<center><em>I&rsquo;m here with my friend Christina Reese who is helping me tackle my 2019 fitness goals. She wants to help you with your goals as well.</em></center>
+
+&nbsp;
 
 Today I’m delighted to be joined Christina Reese. She’s the studio manager here at [ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} and I just signed up for their six-week challenge.
 
