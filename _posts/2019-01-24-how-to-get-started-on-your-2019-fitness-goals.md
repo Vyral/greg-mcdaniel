@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Started on Your 2019 Fitness Goals Today
+title: How to Get Started on Your 2019 Fitness Goals
 date: 2019-01-24 00:00:00
 tags:
   - Real Estate
@@ -21,7 +21,7 @@ youtube_code: H0-kofFmkiA
 
 <center><em>I&rsquo;m here with my friend Christina Reese who is helping me tackle my 2019 fitness goals. She wants to help you with your goals as well.</em></center>
 
-&nbsp;
+ 
 
 Today I’m delighted to be joined Christina Reese. She’s the studio manager here at [ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} and I just signed up for their six-week challenge.
 
