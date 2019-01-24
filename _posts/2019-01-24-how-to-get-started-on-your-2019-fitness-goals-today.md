@@ -27,7 +27,7 @@ Today I’m delighted to be joined Christina Reese. She’s the studio manager h
 
 [Ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} is first and foremost a kickboxing studio, with seven different coaches that are here to hold you accountable to reach your fitness goals.
 
-**I’m excited to announce that they’re making a special offer to all of you to join me in this six-week challenge for free**. This includes classes, accountability, and nutrition advice to help get you kickstarted on your 2019 fitness goals.
+**I’m excited to announce that they’re making a special offer to all of you to join me in this six-week challenge for free**. This includes classes, accountability, and nutrition advice to help get you kick started on your 2019 fitness goals.
 
 {% include pullquote.html %}
 
