@@ -21,13 +21,13 @@ youtube_code: H0-kofFmkiA
 
 <center><em>I&rsquo;m here with my friend Christina Reese who is helping me tackle my 2019 fitness goals. She wants to help you with your goals as well.</em></center>
 
- 
+&nbsp;
 
-Today I’m delighted to be joined Christina Reese. She’s the studio manager here at [ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} and I just signed up for their six-week challenge.
+Today I’m delighted to be joined by Christina Reese. She’s the studio manager here at [ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} and I just signed up for their six-week challenge.
 
 [Ilovekickboxing.com](https://www.ilovekickboxing.com/){: target="_blank"} is first and foremost a kickboxing studio, with seven different coaches that are here to hold you accountable to reach your fitness goals.
 
-**I’m excited to announce that they’re making a special offer to all of you to join me in this six-week challenge for free**. This includes classes, accountability, and nutrition advice to help get you kick started on your 2019 fitness goals.
+**I’m excited to announce that they’re making a special offer to all of you to join me in this six-week challenge for free**. This includes classes, accountability, and nutrition advice to help you kick-start your 2019 fitness goals.
 
 {% include pullquote.html %}
 
