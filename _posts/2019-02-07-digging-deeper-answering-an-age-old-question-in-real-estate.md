@@ -22,7 +22,9 @@ youtube_code: ItqAiSUB_5w
 
 {% include youtube.html %}
 
-<center>When is the best time to sell your home? To answer this question, we sought the advice of some friends of ours, and what they found may surprise you.</center>
+<center><em>When is the best time to sell your home? To answer this question, we sought the advice of some friends of ours, and what they found may surprise you.</em></center>
+
+&nbsp;
 
 It’s an age-old question in real estate and it’s one that’s on more than a few minds: **When is the best time to sell my home?**
 
