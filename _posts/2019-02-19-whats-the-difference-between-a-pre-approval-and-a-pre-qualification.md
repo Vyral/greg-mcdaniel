@@ -26,7 +26,7 @@ youtube_code: vxYb8MAAaW8
 
 &nbsp;
 
-What’s the difference between a pre-approval and a pre-qualification? Today I’m joined by Miles Palacios of CMG Mortgage to answer that question.
+What’s the difference between a pre-approval and a pre-qualification? Today I’m joined by Miles Palacios of CMG Financial to answer that question.
 
 With a pre-qualification, you share certain financial information with a lender (your annual income, assets, etc.) and they check your credit. The process is very informal, though, and they don’t verify any documentation. With a pre-approval, you actually supply your documentation to a lender that they then verify.
 
