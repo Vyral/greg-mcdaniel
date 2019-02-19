@@ -22,7 +22,9 @@ youtube_code: vxYb8MAAaW8
 
 {% include youtube.html %}
 
-<center>A pre-approval is more formal and more exacting than a pre-qualification, which makes it more beneficial to homebuyers.</center>
+<center><em>A pre-approval is more formal and more exacting than a pre-qualification, which makes it more beneficial to homebuyers.</em></center>
+
+&nbsp;
 
 What’s the difference between a pre-approval and a pre-qualification? Today I’m joined by Miles Palacios of CMT Mortgage to answer that question.
 
