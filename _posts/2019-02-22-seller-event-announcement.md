@@ -24,4 +24,6 @@ youtube_code: yk6lN1oAWUw
 
 Today, we want to invite you to a Seller Seminar that we are hosting on February 28th, at Miles' office in San Ramon. Some things we will be discussing are how to maximize the value of your home, what to renovate, how to navigate the time between closings, and much more!
 
-**To register for the seller event, click here!<br>If you need directions, [click here](https://goo.gl/maps/ZJQhXBv8ao92){: target="_blank"}!**
+**To register for the seller event, click here!**
+
+**If you need directions, [click here](https://goo.gl/maps/ZJQhXBv8ao92){: target="_blank"}!**
