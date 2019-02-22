@@ -18,6 +18,8 @@ youtube_code: yk6lN1oAWUw
 
 {% include youtube.html %}
 
-<center>We only have 75 spots available, so grab yours now!</center>
+<center><em>We only have 75 spots available, so grab yours now!</em></center>
+
+&nbsp;
 
 Today, we want to invite you to a Seller Seminar that we are hosting on February 28th, at Miles' office in San Ramon. Some things we will be discussing are how to maximize the value of your home, what to renovate, how to navigate the time between closings, and much more!
