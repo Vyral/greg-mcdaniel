@@ -24,6 +24,4 @@ youtube_code: yk6lN1oAWUw
 
 Today, we want to invite you to a Seller Seminar that we are hosting on February 28th, at Miles' office in San Ramon. Some things we will be discussing are how to maximize the value of your home, what to renovate, how to navigate the time between closings, and much more!
 
-**To register for the seller event, click here!**
-<br />
-**If you need directions, [click here](https://goo.gl/maps/ZJQhXBv8ao92){: target="_blank"}!**
+**To register for the seller event, [click here](https://www.eventbrite.com/e/seller-seminar-real-estate-radio-talks-free-seller-seminar-tickets-55531528296?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing){: target="_blank"}!**<br>**If you need directions, [click here](https://goo.gl/maps/ZJQhXBv8ao92){: target="_blank"}!**
