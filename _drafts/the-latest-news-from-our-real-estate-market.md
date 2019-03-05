@@ -19,7 +19,7 @@ youtube_code: cJzwRKNREfg
 
 {% include youtube.html %}
 
-I’ve got an update for you on our real estate market, straight from my recent seller seminar. Here’s what you need to know.
+<center>I’ve got an update for you on our real estate market, straight from my recent seller seminar. Here’s what you need to know.</center>
 
 I recently hosted a seminar for home sellers and I wanted to share a clip of it with you today. **I talked about the current state of the market, what’s causing the market shift, and more**.
 
