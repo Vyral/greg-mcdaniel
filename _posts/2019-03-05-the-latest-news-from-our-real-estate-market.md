@@ -31,8 +31,8 @@ Our price growth has also been slowing down, but this needed to take place. **Th
 
 {% include pullquote.html %}
 
-That’s not always a bad thing either. In other parts of the country, homes are worth a lot less than they are here. They do see steady appreciation of like 3% each year, but 3% on a $180,000 home is a lot different than 3% on a $800,000 home.
+That’s not always a bad thing either. In other parts of the country, homes are worth a lot less than they are here. They do see steady appreciation of approximately 3% each year, but 3% on a $180,000 home is a lot different than 3% on an $800,000 home.
 
-What’s contributing to our slow down right now? Buyers got tired of getting beaten up by sellers and they just threw their hands up. Interest rates rose a little bit and we saw an instant freeze in the market. When rates went up, prices stalled out, especially in the upper price ranges. **The affordability in that price point is very thin**. At the same time, the $600,000 to $1 million market is seeing homes flying off the shelves.
+What’s contributing to our slowdown right now? Buyers got tired of getting beaten up by sellers and they just threw their hands up. Interest rates rose a little bit and we saw an instant freeze in the market. When rates went up, prices stalled out, especially in the upper price ranges. **The affordability in that price point is very thin**. At the same time, the $600,000 to $1 million market is seeing homes flying off the shelves, so to speak.
 
 If you have any questions for me about the current state of the market or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
