@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I’ve got an update for you on our real estate market, straight from my recent
   seller seminar. Here’s what you need to know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+The+Latest+News+From+Our+Real+Estate+Market.mp4
 pullquote: Buyers got tired of getting beaten up by sellers.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ youtube_code: cJzwRKNREfg
 
 <center><em>I&rsquo;ve got an update for you on our real estate market, straight from my recent seller seminar. Here&rsquo;s what you need to know.</em></center>
 
-&nbsp;
+ 
 
 I recently hosted a seminar for home sellers and I wanted to share a clip of it with you today. **I talked about the current state of the market, what’s causing the market shift, and more**.
 
