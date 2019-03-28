@@ -20,7 +20,7 @@ youtube_code: yj-bVfJbWZU
 
 {% include youtube.html %}
 
-I recently had a conversation with Zach Beach about the process of breaking into real estate investing.
+<center>I recently had a conversation with Zach Beach about the process of breaking into real estate investing.</center>
 
 If you’ve ever considered investing in real estate, but you decided against it because of all the barriers before you—time, money, or otherwise—today’s message is for you. Joining me today is investing professional, Zach Beach, to deconstruct those barriers for you.
 
