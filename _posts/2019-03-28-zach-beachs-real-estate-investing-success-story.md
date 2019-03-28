@@ -20,7 +20,9 @@ youtube_code: yj-bVfJbWZU
 
 {% include youtube.html %}
 
-<center>I recently had a conversation with Zach Beach about the process of breaking into real estate investing.</center>
+<center><em>I recently had a conversation with Zach Beach about the process of breaking into real estate investing.</em></center>
+
+&nbsp;
 
 If you’ve ever considered investing in real estate, but you decided against it because of all the barriers before you—time, money, or otherwise—today’s message is for you. Joining me today is investing professional, Zach Beach, to deconstruct those barriers for you.
 
@@ -36,6 +38,6 @@ Interestingly enough, Zach’s background is as a personal trainer and bartender
 
 I’ve even experienced the power of this system firsthand: On my show, Beers and Calls, I decided to give Zach’s script a shot with callers who didn’t know me from Adam and, remarkably, many who called in took interest in learning more about his system.
 
-To learn more about the ins and outs of Zach and his family’s system and the scripts they use, you can visit [SRECRadioBook.com](http://hugewhy-045226.pages.infusionsoft.net/?cookieUUID=fa3a943a-9c28-42c7-a370-a12dcb6eb84a){: target="_blank"} and pick up a copy of “Real Estate On Your Terms: Create Continuous Cash Flow Now, Without Using Your Cash Or Credit”, written by Zach’s father-in-law, Chris Prefontaine. And you can reach out to Zach to learn more directly from him as well.
+To learn more about the ins and outs of Zach and his family’s system and the scripts they use, you can visit [SRECRadioBook.com](http://hugewhy-045226.pages.infusionsoft.net/?cookieUUID=fa3a943a-9c28-42c7-a370-a12dcb6eb84a){: target="_blank"} and pick up a copy of “Real Estate On Your Terms: Create Continuous Cash Flow Now, Without Using Your Cash Or Credit”, written by Zach’s father-in-law, Chris Prefontaine. You can also reach out to Zach to learn more directly from him as well.
 
 As always, if you have any questions for me related to real estate, please call me at (925) 838-4300 or you can email me at [TEAM@McDanielCallahan.com](mailto:TEAM@McDanielCallahan.com). I’ll see you in the next video!
