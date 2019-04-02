@@ -8,7 +8,9 @@ excerpt: >-
   Continuing our conversation with Zach Beach, this time he shares with us how
   he used his family's investment strategy to purchase his own home.
 enclosure:
-pullquote:
+pullquote: >-
+  By the time he was ready to buy the home, he was able to put down $36,000,
+  with no lender financing necessary!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,7 +22,7 @@ youtube_code: 8J4ZUz-y-FU
 
 <center><em>Continuing our conversation with Zach Beach, this time he shares with us how he used his family's investment strategy to purchase his own home.</em></center>
 
-&nbsp;
+ 
 
 Welcome to the second half of my two-part interview with real estate investing extraordinaire Zach Beach. If you missed part one of our interview, you can [check it out here](https://mcdanielcallahanblog.com/zach-beachs-real-estate-investing-success-story.html){: target="_blank"}.
 
