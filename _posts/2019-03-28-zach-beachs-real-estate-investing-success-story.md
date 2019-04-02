@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently had a conversation with Zach Beach about the process of breaking
   into real estate investing.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+Zach+Beachs+Real+Estate+Investing+Success+Story.mp4
 pullquote: >-
   Since transitioning over, Zach has found such success working in real estate
   that he’s closed 100 deals via this method in just three years’ time!
@@ -21,6 +22,8 @@ youtube_code: yj-bVfJbWZU
 {% include youtube.html %}
 
 <center><em>I recently had a conversation with Zach Beach about the process of breaking into real estate investing.</em></center>
+
+&nbsp;
 
 If you’ve ever considered investing in real estate, but you decided against it because of all the barriers before you—time, money, or otherwise—today’s message is for you. Joining me today is investing professional, Zach Beach, to deconstruct those barriers for you.
 
