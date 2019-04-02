@@ -18,7 +18,7 @@ youtube_code: 8J4ZUz-y-FU
 
 {% include youtube.html %}
 
-Continuing our conversation with Zach Beach, this time he shares with us how he used his family's investment strategy to purchase his own home.
+<center>Continuing our conversation with Zach Beach, this time he shares with us how he used his family's investment strategy to purchase his own home.</center>
 
 Welcome to the second half of my two-part interview with real estate investing extraordinaire Zach Beach. If you missed part one of our interview, you can [check it out here](https://mcdanielcallahanblog.com/zach-beachs-real-estate-investing-success-story.html){: target="_blank"}.
 
