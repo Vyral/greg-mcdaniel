@@ -20,7 +20,7 @@ youtube_code: Wg0CBYXQfy8
 
 {% include youtube.html %}
 
-Before hiring an agent, there are a few things that you must ask them to determine whether they’re the right fit. Here’s what you need to know.
+<center>Before hiring an agent, there are a few things that you must ask them to determine whether they’re the right fit. Here’s what you need to know.</center>
 
 Here at the McDaniel Callahan Team, we have a combined 97 years of experience in the real estate industry and we’ve come across tons of different scenarios and situations. **There are three different questions that we’ve found to be the most important when you’re looking to hire a real estate agent:**
 
