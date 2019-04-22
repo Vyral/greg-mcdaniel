@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Before hiring an agent, there are a few things that you must ask them to
   determine whether they’re the right fit.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+What+Should+You+Be+Asking+Potential+Agents+Before+Hiring+Them_.mp4
 pullquote: Everybody’s needs are different.
 enclosure_type: video/mp4
 enclosure_time:
