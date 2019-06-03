@@ -17,7 +17,7 @@ youtube_code: AlrvcuiBn4M
 
 {% include youtube.html %}
 
-Have you ever wanted to shape a property into your dream home? If so, I have the opportunity for you\!
+<center>Have you ever wanted to shape a property into your dream home? If so, I have the opportunity for you!</center>
 
 The property you see behind me was recently beleaguered by a water main break that caused flooding throughout the home. **It’s being gutted as we speak, but it’ll soon be restored and better than ever**.
 
