@@ -5,7 +5,9 @@ date: 2019-06-03 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  Have you ever wanted to shape a property into your dream home? If so, I have
+  the opportunity for you!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
