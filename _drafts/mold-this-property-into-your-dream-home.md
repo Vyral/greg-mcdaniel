@@ -17,6 +17,8 @@ youtube_code: AlrvcuiBn4M
 
 {% include youtube.html %}
 
+Have you ever wanted to shape a property into your dream home? If so, I have the opportunity for you\!
+
 The property you see behind me was recently beleaguered by a water main break that caused flooding throughout the home. **It’s being gutted as we speak, but it’ll soon be restored and better than ever**.
 
 It’s not currently listed on the market, but this home could still be yours: **If you’re looking to buy a home in the Piedmont area, the owners will sell it right now for $1.4 million**. When all is said and done, the estimated value will be $2 million or thereabouts.
