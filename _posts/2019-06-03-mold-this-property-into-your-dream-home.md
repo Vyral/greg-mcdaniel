@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-3-flip-np.jpg
-youtube_code: AlrvcuiBn4M
+youtube_code: qh9E57n_7M0
 ---
 
 {% include youtube.html %}
