@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Have you ever wanted to shape a property into your dream home? If so, I have
   the opportunity for you!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+Mold+This+Property+Into+Your+Dream+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
