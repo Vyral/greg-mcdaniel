@@ -18,7 +18,7 @@ youtube_code: ZwLrekGWdY8
 
 {% include youtube.html %}
 
-At Worth Ranch, you can find a great selection of food and drinks and enjoy a family-friendly atmosphere.
+<center>At Worth Ranch, you can find a great selection of food and drinks and enjoy a family-friendly atmosphere.</center>
 
 Have you been to Worth Ranch yet? If not, today I want to give you an exclusive look at everything this great boutique restaurant offers, and joining me is owner Rodney Worth.
 
