@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-18-worth-ranch-np.jpg
-youtube_code: ZwLrekGWdY8
+youtube_code: Ao3ZYlcObao
 ---
 
 {% include youtube.html %}
