@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   At Worth Ranch, you can find a great selection of food and drinks and enjoy a
   family-friendly atmosphere.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Bay+Area+Real+Estate+Agent+-+Join+Me+Today+at+Worth+Ranch.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
