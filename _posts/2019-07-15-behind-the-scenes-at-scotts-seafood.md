@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   I recently took a tour of Scott’s Seafood, a bar and restaurant that provides
-  more than just excellent dishes. Stay tuned to see what they have to offer.
+  more than just excellent dishes.
 enclosure:
 pullquote: 'Alfredo makes it look simple, but rest assured, he''s incredibly skilled.'
 enclosure_type: video/mp4
