@@ -18,7 +18,9 @@ youtube_code: W0wOY65TX54
 
 {% include youtube.html %}
 
-<center>I recently took a tour of Scott’s Seafood, a bar and restaurant that provides more than just excellent dishes. Stay tuned to see what they have to offer.</center>
+<center><em>I recently took a tour of Scott&rsquo;s Seafood, a bar and restaurant that provides more than just excellent dishes. Stay tuned to see what they have to offer.</em></center>
+
+&nbsp;
 
 I’m coming to you today from the Blackhawk Auto Museum, where Scott’s Seafood has had the exclusive right to cater for over 20 years. I spoke with a number of employees at Scott’s Seafood to show you what this fantastic bar and restaurant has to offer.
 
