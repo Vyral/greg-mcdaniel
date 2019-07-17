@@ -24,7 +24,7 @@ youtube_code: W0wOY65TX54
 
 I’m coming to you today from the Blackhawk Auto Museum, where Scott’s Seafood has had the exclusive right to cater for over 20 years. I spoke with a number of employees at Scott’s Seafood to show you what this fantastic bar and restaurant has to offer.
 
-Stepping into the kitchen, I met with executive chef Alfredo Reyes. He dazzled me by showing us the fresh ingredients that go into their cioppino: Dungeness crab, mussels, Manila clams, two varieties of fish, mushrooms, marinara sauce, scallops, and shrimp. Alfredo makes it look simple, but rest assured, he's incredibly skilled.
+Stepping into the kitchen, I met with executive chef Alfredo Reyes. He dazzled me with the fresh ingredients that go into their cioppino: Dungeness crab, mussels, Manila clams, two varieties of fish, mushrooms, marinara sauce, scallops, and shrimp. Alfredo makes it look simple, but rest assured, he's incredibly skilled.
 
 Out in the dining room, I sat down with Gina Longmire, Director of Catering Services, to dig into a few excellent items the chef prepared specially for us. I tried the crab and avocado salad—which was delicious. Coupled with the amazing staff and management, &nbsp;Scott's is sure to impress. **If you decide to stop by, use the promo code "McDaniel" to receive a free appetizer\!**
 
