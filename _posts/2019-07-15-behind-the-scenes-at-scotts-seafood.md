@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently took a tour of Scott’s Seafood, a bar and restaurant that provides
   more than just excellent dishes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Behind+the+Scenes+at+Scotts+Seafood.mp4
 pullquote: 'Alfredo makes it look simple, but rest assured, he''s incredibly skilled.'
 enclosure_type: video/mp4
 enclosure_time:
