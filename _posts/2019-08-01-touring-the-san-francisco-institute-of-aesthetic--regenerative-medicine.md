@@ -20,7 +20,9 @@ youtube_code: JIKHba55BCk
 
 {% include youtube.html %}
 
-<center>We’re taking a break from real estate to go on an exclusive tour of the San Francisco Institute of Aesthetic & Regenerative Medicine.</center>
+<center><em>We&rsquo;re taking a break from real estate to go on an exclusive tour of the San Francisco Institute of Aesthetic &amp; Regenerative Medicine.</em></center>
+
+&nbsp;
 
 If you’ve never heard of the San Francisco Institute of Aesthetic & Regenerative Medicine, I’m excited to take you on a quick tour of it to show you everything this private hospital/hotel has to offer.
 
