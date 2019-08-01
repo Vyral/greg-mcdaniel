@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   We’re taking a break from real estate to go on an exclusive tour of the San
-  Francisco Institute of Aesthetic & Regenerative Medicine
+  Francisco Institute of Aesthetic & Regenerative Medicine.
 enclosure:
 pullquote: >-
   You can come in for surgery, stay at the hotel, and have all your subsequent
