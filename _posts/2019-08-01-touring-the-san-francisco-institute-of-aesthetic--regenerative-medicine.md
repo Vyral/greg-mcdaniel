@@ -32,6 +32,6 @@ They also have a beauty lab where you can test all of the beauty products they h
 
 {% include pullquote.html %}
 
-If you’d like to know more about the San Francisco Institute of Aesthetic & Regenerative Medicine, **go ahead and give me a call or <u><a target="_blank" href="https://sfinstitute.com/">check out their website</a></u>**. In the meantime, enjoy the video above in its entirety, or <u><a target="_blank" href="https://youtu.be/qDzCtYS2tcY">find a longer version here</a></u>\!
+If you’d like to know more about the San Francisco Institute of Aesthetic & Regenerative Medicine, **go ahead and give me a call or <u><a target="_blank" href="https://sfinstitute.com/">check out their website</a></u>**. In the meantime, enjoy the video above in its entirety, or <u><a target="_blank" href="https://youtu.be/qDzCtYS2tcY">find an extended look here</a></u>\!
 
 As always, if you have any real estate questions, feel free to reach out to me as well. I look forward to speaking with you.
