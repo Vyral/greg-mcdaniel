@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’re taking a break from real estate to go on an exclusive tour of the San
   Francisco Institute of Aesthetic & Regenerative Medicine.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Touring+the+San+Francisco+Institute+of+Aesthetic+%26+Regenerative+Medicine.mp4
 pullquote: >-
   You can come in for surgery, stay at the hotel, and have all your subsequent
   medical needs taken care of in complete privacy.
