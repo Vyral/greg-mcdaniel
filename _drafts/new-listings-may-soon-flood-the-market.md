@@ -19,7 +19,7 @@ youtube_code: '-SnlLLgrjf4'
 
 {% include youtube.html %}
 
-A tsunami of unknown listings may be coming to your neighborhood. Here’s what you need to know.
+<center>A tsunami of unknown listings may be coming to your neighborhood. Here’s what you need to know.</center>
 
 A tsunami of unknown listings may be coming to your neighborhood.
 
