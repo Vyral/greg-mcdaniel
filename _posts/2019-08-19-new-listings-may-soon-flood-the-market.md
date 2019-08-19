@@ -19,11 +19,13 @@ youtube_code: '-SnlLLgrjf4'
 
 {% include youtube.html %}
 
-<center>A tsunami of unknown listings may be coming to your neighborhood. Here’s what you need to know.</center>
+<center><em>A tsunami of unknown listings may be coming to your neighborhood. Here&rsquo;s what you need to know.</em></center>
+
+&nbsp;
 
 A tsunami of unknown listings may be coming to your neighborhood.
 
-The other day, a little bird was chirping in my ear, saying hundreds of millions (even billions) of dollars have been poured into the tech companies that are so prolific in the Bay Area by VC money. Apparently, the VCs are getting anxious about seeing a return on their investment.
+The other day, a little bird was chirping in my ear, saying hundreds of millions (even billions) of dollars have been poured into the tech companies that are so prolific in the Bay Area by VC (Venture Capital) money. Apparently, the VCs are getting anxious about seeing a return on their investment.
 
 Because of that, we might see a constriction on these companies in the form of layoffs, employees moving, or even the companies folding because they can’t produce the desired results. As a consequence, the VCs may dry up like the Sahara desert and no longer provide the cash they’re going to need, **meaning that a flood of new properties may soon hit the market**.
 
