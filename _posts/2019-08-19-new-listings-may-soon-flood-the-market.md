@@ -19,7 +19,7 @@ youtube_code: '-SnlLLgrjf4'
 
 {% include youtube.html %}
 
-<center><em>A tsunami of unknown listings may be coming to your neighborhood. Here&rsquo;s what you need to know.</em></center>
+<center>A tsunami of unknown listings may be coming to your neighborhood. Here&rsquo;s what you need to know.</center>
 
 &nbsp;
 
@@ -33,6 +33,6 @@ Because of that, we might see a constriction on these companies in the form of l
 
 The moral of this message is to keep your eyes open to what’s going on in the market. If you’re looking to buy a property and don’t want to fight the masses, know that the Fed dropped the interest rate again—but that could increase our rates here in the real estate industry.
 
-However, **I have a list of over 18 properties right now that aren’t yet on the market but are looking to be sold all over Contra Costa County**, including multifamily units, build-ups, rentals, and more.
+However, **I have a list of over 18 properties right now that aren’t yet on the market but are looking to be sold all over Contra Costa County**, including multi-family units, build-ups, rentals, and more.
 
-If you’re looking to buy something as an investor or user, don’t hesitate to reach out to us. We’ll be glad to get you the information you need.
+If you’re looking to buy something as an investor or to live in, don’t hesitate to reach out to us. We’ll be glad to get you the information you need.
