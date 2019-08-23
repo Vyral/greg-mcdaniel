@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   A tsunami of unknown listings may be coming to your neighborhood. Here’s what
   you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/New+Listings+May+Soon+Flood+the+Market.mp4
 pullquote: Keep your eyes open to what’s going on in the market.
 enclosure_type: video/mp4
 enclosure_time:
