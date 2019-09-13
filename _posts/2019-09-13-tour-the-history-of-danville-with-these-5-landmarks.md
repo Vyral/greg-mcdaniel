@@ -18,7 +18,9 @@ youtube_code: hGrhULniBtI
 
 {% include youtube.html %}
 
-<center>The city of Danville has a rich history, and today we’ll explore its most important landmarks.</center>
+<center><em>The city of Danville has a rich history, and today we&rsquo;ll explore its most important landmarks.</em></center>
+
+&nbsp;
 
 Today I invite you to follow along with me in the video above as I take a tour of the top five historical landmarks of the city of Danville:
 
