@@ -32,7 +32,7 @@ Today I invite you to follow along with me in the video above as I take a tour o
 
 {% include pullquote.html %}
 
-**4\. Elliot’s Bar (2:32):** This bar was built in 1907 and moved to its current location in 1912. During Prohibition, it was converted into an ice cream parlor. It’s a great place to stop in an enjoy a cold beer.
+**4\. Elliot’s Bar (2:32):** This bar was built in 1907 and moved to its current location in 1912. During Prohibition, it was converted into an ice cream parlor. It’s a great place to stop in and enjoy a cold beer.
 
 **5\. St. Isidore’s Catholic Church (3:12):** Founded in 1910, this church was the first to serve the Danville parish, and it’s now a staple of the community.
 
