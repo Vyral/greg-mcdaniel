@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-12---greg-mcdaniel---yt.jpg
-youtube_code: hGrhULniBtI
+youtube_code: Yor_DOUjxlU
 ---
 
 {% include youtube.html %}
@@ -35,5 +35,7 @@ Today I invite you to follow along with me in the video above as I take a tour o
 **4\. Elliot’s Bar (2:32):** This bar was built in 1907 and moved to its current location in 1912. During Prohibition, it was converted into an ice cream parlor. It’s a great place to stop in and enjoy a cold beer.
 
 **5\. St. Isidore’s Catholic Church (3:12):** Founded in 1910, this church was the first to serve the Danville parish, and it’s now a staple of the community.
+
+To see more photos of Danville's history, check out <u><a target="_blank" href="https://www.surjanto.com/danville-now-and-then/">Surjanto's "Danville Now and Then" here</a></u>\!
 
 Remember, if you have any real estate questions or you’re thinking of buying or selling a home soon, don’t hesitate to give me a call or send me an email. I’d love to help you.
