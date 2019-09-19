@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The city of Danville has a rich history, and today we’ll explore its most
   important landmarks.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Tour+the+History+of+Danville+With+These+5+Landmarks.mp4
 pullquote: Don’t miss out on visiting these five historical landmarks.
 enclosure_type: video/mp4
 enclosure_time:
