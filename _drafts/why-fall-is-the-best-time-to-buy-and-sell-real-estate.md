@@ -22,7 +22,7 @@ youtube_code: 5Lw8u7hwaL8
 
 {% include youtube.html %}
 
-Don’t disregard fall as a great time to buy or sell. Here’s why this season may be the perfect time for you to hop into the market.
+<center>Don’t disregard fall as a great time to buy or sell. Here’s why this season may be the perfect time for you to hop into the market.</center>
 
 When it comes to real estate, there’s a weird stigma surrounding the fall season. A lot of people seem to believe that it’s a bad time to buy or sell, but it’s completely untrue. I’ve bought a majority of my own properties in the fall and winter months. **Here’s why fall is so great for real estate:**
 
