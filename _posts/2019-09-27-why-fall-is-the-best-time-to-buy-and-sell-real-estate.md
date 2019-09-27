@@ -30,7 +30,7 @@ When it comes to real estate, there’s a weird stigma surrounding the fall seas
 
 **1\. There’s less competition:** Fewer buyers and sellers are looking to make a sale, so you’re not having to compete with the crowds. Buyers will be more likely to get their offers accepted and sellers will get more eyes looking at their home.
 
-**2\. Holidays:** You can make the holidays work well for you as a seller. It’s a good time to fill your home with the wonderful smells of the season and create an inviting atmosphere. Cook a pumpkin pie, serve some eggnog, and get some holiday cheer going. It makes your house feel more like a home.
+**2\. The holidays:** You can make the holidays work well for you as a seller. It’s a good time to fill your home with the wonderful smells of the season and create an inviting atmosphere. Cook a pumpkin pie, serve some eggnog, and get some holiday cheer going. It makes your house feel more like a home.
 
 {% include pullquote.html %}
 
