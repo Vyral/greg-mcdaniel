@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-27---greg-mcdaniel---yt.jpg
-youtube_code: 5Lw8u7hwaL8
+youtube_code: yiFx_51jJQk
 ---
 
 {% include youtube.html %}
