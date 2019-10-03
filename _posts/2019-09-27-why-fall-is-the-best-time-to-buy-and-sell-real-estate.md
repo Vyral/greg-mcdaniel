@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Don’t disregard fall as a great time to buy or sell. Here’s why this season
   may be the perfect time for you to hop into the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Why+Fall+Is+the+Best+Time+to+Buy+and+Sell+Real+Estate.mp4
 pullquote: >-
   Whether you’re a buyer or a seller, fall is always a great time to jump into
   the market.
