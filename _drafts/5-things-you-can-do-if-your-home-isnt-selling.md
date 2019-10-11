@@ -19,7 +19,7 @@ youtube_code: H7EeAP8lfHE
 
 {% include youtube.html %}
 
-There are fix potential fixes for a stagnant home sale.
+<center>There are fix potential fixes for a stagnant home sale.</center>
 
 If you’ve put your home on the market but haven’t had any luck selling it, **here are five tips that will help you reach your goal:**
 
