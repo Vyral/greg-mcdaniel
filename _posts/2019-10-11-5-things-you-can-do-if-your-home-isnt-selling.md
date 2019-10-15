@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-11---greg-mcdaniel---email.jpg
-youtube_code: H7EeAP8lfHE
+youtube_code: 1se7NpHGoZs
 ---
 
 {% include youtube.html %}
 
-<center><em>There are fix potential fixes for a stagnant home sale.</em></center>
+<center><em>There are five potential fixes for a stagnant home sale.</em></center>
 
 &nbsp;
 
