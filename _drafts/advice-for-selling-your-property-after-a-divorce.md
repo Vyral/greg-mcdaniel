@@ -17,7 +17,7 @@ youtube_code: gLsclGpOpR8
 
 {% include youtube.html %}
 
-What do you do with your property after a divorce? Here’s my advice.
+<center>What do you do with your property after a divorce? Here’s my advice.</center>
 
 Here are a few tips to help you navigate the sale of your property if you’re selling it after a divorce:
 
