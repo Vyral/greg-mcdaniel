@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: What do you do with your property after a divorce? Here’s my advice.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Advice+For+Selling+Your+Property+After+a+Divorce.mp4
 pullquote: Keeping a level head is paramount when undergoing this sort of life change.
 enclosure_type: video/mp4
 enclosure_time:
