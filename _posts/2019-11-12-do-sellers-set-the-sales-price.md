@@ -19,7 +19,7 @@ youtube_code: YzeYSArvmPM
 
 {% include youtube.html %}
 
-<center><em>Today marks the launch of my new series on home selling myths. Let’s discuss myth No. 1.</em></center>
+<center><em>Today marks the launch of my new series on home selling myths. Let&rsquo;s discuss myth No. 1.</em></center>
 
 <br>Today, I’m excited to launch my brand-new series on the 15 home selling myths you need to stop believing. For our first installment, we’re going to be discussing a very common misconception—that sellers set the sales price.
 
