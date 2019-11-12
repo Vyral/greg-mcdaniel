@@ -19,9 +19,9 @@ youtube_code: YzeYSArvmPM
 
 {% include youtube.html %}
 
-Today marks the launch of my new series on home selling myths. Let’s discuss myth No. 1.
+<center><em>Today marks the launch of my new series on home selling myths. Let’s discuss myth No. 1.</em></center>
 
-Today, I’m excited to launch my brand-new series on the 15 home selling myths you need to stop believing. For our first installment, we’re going to be discussing a very common misconception—that sellers set the sales price.
+<br>Today, I’m excited to launch my brand-new series on the 15 home selling myths you need to stop believing. For our first installment, we’re going to be discussing a very common misconception—that sellers set the sales price.
 
 **What really determines this figure is the home’s condition and location, as well as the condition of the market**. But, above even these factors, there is one more component that matters above all others: a buyer’s willingness to pay. That’s right—if a buyer isn’t willing to pay the list price you’ve set, then you probably aren’t going to get that amount.
 
