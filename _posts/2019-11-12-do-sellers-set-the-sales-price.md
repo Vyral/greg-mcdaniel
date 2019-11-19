@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today marks the launch of my new series on home selling myths. Let’s discuss
   myth No. 1.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Do+Sellers+Set+the+Sales+Price_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
