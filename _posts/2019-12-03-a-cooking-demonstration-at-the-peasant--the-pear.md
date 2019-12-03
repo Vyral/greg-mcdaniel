@@ -18,7 +18,7 @@ youtube_code: Jlbc4L8XtXA
 
 {% include youtube.html %}
 
-<center><em>Watch to learn the secret to making Chef Rodney Worth’s signature turkey gravy and “Peartini” cocktail.</em></center>
+<center><em>Watch to learn the secret to making Chef Rodney Worth&rsquo;s signature turkey gravy and &ldquo;Peartini&rdquo; cocktail.</em></center>
 
 <br>I’ve met with Chef Rodney Worth before at The Ranch, one of the five restaurants that he owns, but today we’re at his flagship restaurant in downtown Danville called The Peasant & The Pear.
 
