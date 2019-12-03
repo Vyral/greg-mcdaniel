@@ -18,7 +18,9 @@ youtube_code: Jlbc4L8XtXA
 
 {% include youtube.html %}
 
-I’ve met with Chef Rodney Worth before at The Ranch, one of the five restaurants that he owns, but today we’re at his flagship restaurant in downtown Danville called The Peasant & The Pear.
+<center><em>Watch to learn the secret to making Chef Rodney Worth’s signature turkey gravy and “Peartini” cocktail.</em></center>
+
+<br>I’ve met with Chef Rodney Worth before at The Ranch, one of the five restaurants that he owns, but today we’re at his flagship restaurant in downtown Danville called The Peasant & The Pear.
 
 The Peasant & The Pear has been here for about 15 years. It’s a great boutique, neighborhood restaurant. I can personally attest to the quality of their food—the food is fantastic, and they treat you like kings and queens\!
 
