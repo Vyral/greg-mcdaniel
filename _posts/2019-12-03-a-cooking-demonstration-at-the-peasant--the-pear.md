@@ -22,7 +22,7 @@ youtube_code: Jlbc4L8XtXA
 
 <br>I’ve <u><a target="_blank" href="https://mcdanielcallahanblog.com/join-me-today-at-worth-ranch.html">met with Chef Rodney Worth before at Worth Ranch</a></u>, one of the five restaurants that he owns, but today we’re at his flagship restaurant in downtown Danville called The Peasant & The Pear.
 
-The Peasant & The Pear has been here for about 15 years. It’s a great boutique, neighborhood restaurant. I can personally attest to the quality of their food—the food is fantastic, and they treat you like kings and queens\!
+The Peasant & The Pear has been here for about 15 years. It’s a great boutique, neighborhood restaurant. I can personally attest to the quality of their food—it's fantastic, and they treat you like kings and queens\!
 
 Today, Rodney will be demonstrating how to make a dish that could come in handy any time of the year, but especially during the holiday season: turkey gravy.
 
