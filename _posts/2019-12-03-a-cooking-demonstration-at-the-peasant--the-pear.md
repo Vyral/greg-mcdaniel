@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-27---greg-mcdaniel---yt.jpg
-youtube_code: kjWCbFZHIvY
+youtube_code: i7CsiKLN1e8
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ Today, Rodney will be demonstrating how to make a dish that could come in handy 
 
 {% include pullquote.html %}
 
-**To learn the secret to making his amazing signature gravy, as well as the process for mixing Rodney’s classic “Peartini” cocktail, <u><a target="_blank" href="https://youtu.be/jpEg1dpCAmY">click here</a></u>.** To check out their menu and make a reservation, <u><a target="_blank" href="http://rodneyworth.com/peasant-pear/">visit their website here</a></u>.
+**To learn the secret to making his amazing signature gravy, as well as the process for mixing Rodney’s classic “Peartini” cocktail, <u><a target="_blank" href="https://youtu.be/mMv0MCEYRPg">click here</a></u>.** To check out their menu and make a reservation, <u><a target="_blank" href="http://rodneyworth.com/peasant-pear/">visit their website here</a></u>.
 
 Please feel free to share this video with your friends and family\! If you share it the most, Rodney and I will give you a $50 gift card to The Peasant & The Pear.
 
