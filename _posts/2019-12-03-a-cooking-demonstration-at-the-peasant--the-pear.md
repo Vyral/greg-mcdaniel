@@ -24,7 +24,7 @@ youtube_code: VfEUebp4skE
 
 The Peasant & The Pear has been here for about 15 years. It’s a great boutique, neighborhood restaurant. I can personally attest to the quality of their food—it's fantastic, and they treat you like kings and queens\!
 
-Today, Rodney will be demonstrating how to make a dish that could come in handy any time of the year, but especially during the holiday season: turkey gravy.
+Today, Rodney will be demonstrating how to make a dish that could come in handy any time of the year, but especially during the holiday season: turkey gravy. He'll also go over the process for mixing his classic “Peartini” cocktail\!
 
 {% include pullquote.html %}
 
