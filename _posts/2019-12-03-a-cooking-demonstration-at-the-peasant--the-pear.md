@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Watch to learn the secret to making Chef Rodney Worth’s signature turkey gravy
   and “Peartini” cocktail.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/A+Cooking+Demonstration+At+The+Peasant+%26+The+Pear.mp4
 pullquote: 'The food is fantastic, and they treat you like kings and queens!'
 enclosure_type: video/mp4
 enclosure_time:
