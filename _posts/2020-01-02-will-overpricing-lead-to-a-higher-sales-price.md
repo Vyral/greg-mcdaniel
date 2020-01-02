@@ -21,13 +21,13 @@ youtube_code: PKSuzak4P4M
 
 {% include youtube.html %}
 
-<center><em>So we’ve already looked at who controls the sales price; today is about the effects of overpricing.</em></center>
+<center><em>So we&rsquo;ve already looked at who controls the sales price; today is about the effects of overpricing.</em></center>
 
 <br>We’re continuing on in our mythbusting series after addressing selling myth No. 1: <u><a target="_blank" href="https://mcdanielcallahanblog.com/do-sellers-set-the-sales-price.html">The sales price is set by the seller</a></u>. We’re analyzing myth No. 2 out of 15 today, and it has to do with the effect pricing has on a home sale.
 
 Our myth today: Overpricing a home results in higher sales prices. This one is absolutely false, and in fact, **the trend among sellers in our area is to do the exact opposite**. In some parts of the Bay Area, people will actually dramatically underprice their homes so as to attract a large amount of buyers to the property and get the bids up.
 
-In the peninsula, parts of Oakland, &nbsp;and the South Bay—not so much here in the East Bay—folks will price their home 15% to 30% below market value to generate interest and get buyers to push over and above the listing price.
+In the peninsula, parts of Oakland, and the South Bay—not so much here in the East Bay—folks will price their home 15% to 30% below market value to generate interest and get buyers to push over and above the listing price.
 
 {% include pullquote.html %}
 
