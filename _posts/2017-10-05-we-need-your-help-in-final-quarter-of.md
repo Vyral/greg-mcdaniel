@@ -12,7 +12,7 @@ title: 'We Need Your Help in the Final Quarter of 2017 '
 date: '2017-10-05T10:21:00.000-07:00'
 author: Anonymous
 tags:
-- Greg McDaniel
+- Real Estate
 modified_time: '2017-10-05T10:22:24.384-07:00'
 thumbnail: https://i.ytimg.com/vi/WdH7O0RW3J8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-7265978562202018094
