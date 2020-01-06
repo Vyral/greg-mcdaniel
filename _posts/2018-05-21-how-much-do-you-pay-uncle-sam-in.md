@@ -12,7 +12,7 @@ title: 'How Much Do You Pay Uncle Sam in Property Taxes? '
 date: '2018-05-21T08:08:00.001-07:00'
 author: Vyral Admin
 tags:
-- Property Taxes
+- Real Estate
 modified_time: '2018-05-21T08:08:32.800-07:00'
 thumbnail: https://i.ytimg.com/vi/F4NohVJO3f0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-1204140104367759928
