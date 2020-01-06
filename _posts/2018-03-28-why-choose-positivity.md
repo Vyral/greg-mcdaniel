@@ -12,8 +12,7 @@ title: Why Choose Positivity?
 date: '2018-03-28T09:33:00.000-07:00'
 author: Caitie Neal
 tags:
-- Traits of Success
-- The McDaniel Callahan Team
+- Real Estate
 modified_time: '2018-03-28T09:33:00.713-07:00'
 thumbnail: https://i.ytimg.com/vi/JodG_Xd7M9M/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-3391109396359272754
