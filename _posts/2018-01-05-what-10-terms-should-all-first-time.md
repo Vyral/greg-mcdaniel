@@ -12,8 +12,8 @@ title: What 10 Terms Should All First-Time Homebuyers Know?
 date: '2018-01-05T12:28:00.000-08:00'
 author: Caitie Neal
 tags:
-- Bay Area Buyer Tips
-- Bay Area Real Estate Agent
+- Real Estate
+- Home Buyer Tips
 modified_time: '2018-01-31T14:37:17.667-08:00'
 thumbnail: https://i.ytimg.com/vi/zqeMokONc0U/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-3520849536711977308
