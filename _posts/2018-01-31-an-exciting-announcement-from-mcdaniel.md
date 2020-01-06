@@ -12,7 +12,7 @@ title: An Exciting Announcement From the McDaniel Callahan Team
 date: '2018-01-31T14:42:00.002-08:00'
 author: Caitie Neal
 tags:
-- The McDaniel Callahan Team
+- Real Estate
 modified_time: '2018-02-02T07:43:07.937-08:00'
 thumbnail: https://i.ytimg.com/vi/xVI91MlcTmA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-4774139099182761926
