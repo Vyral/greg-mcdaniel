@@ -12,7 +12,7 @@ title: 'Stop Earning a Paycheck and Start Earning Wealth '
 date: '2018-02-22T12:20:00.004-08:00'
 author: Caitie Neal
 tags:
-- The McDaniel Callahan Team Careers
+- Real Estate
 modified_time: '2018-02-23T10:24:38.939-08:00'
 thumbnail: https://i.ytimg.com/vi/2NM_rKrplqc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-7590559618216632693
