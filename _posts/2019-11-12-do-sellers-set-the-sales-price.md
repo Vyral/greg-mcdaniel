@@ -26,4 +26,6 @@ youtube_code: YzeYSArvmPM
 
 **What really determines this figure is the home’s condition and location, as well as the condition of the market**. But, above even these factors, there is one more component that matters above all others: a buyer’s willingness to pay. That’s right—if a buyer isn’t willing to pay the list price you’ve set, then you probably aren’t going to get that amount.
 
-As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. Also, stay tuned for part two of this series\!
+As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. Also, stay tuned for part two of this series!
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
