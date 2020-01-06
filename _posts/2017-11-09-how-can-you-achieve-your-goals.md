@@ -12,7 +12,7 @@ title: How Can You Achieve Your Goals?
 date: '2017-11-09T11:53:00.000-08:00'
 author: Anonymous
 tags:
-- McDaniel Callahan Real Estate Team
+- Real Estate
 modified_time: '2017-11-13T10:02:22.817-08:00'
 thumbnail: https://i.ytimg.com/vi/fcVsE2EtAX8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-7726797574710342591
