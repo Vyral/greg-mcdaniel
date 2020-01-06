@@ -12,7 +12,7 @@ title: Why I Chose to Have a Career in Real Estate
 date: '2017-10-16T08:03:00.000-07:00'
 author: Anonymous
 tags:
-- McDaniel Callahan Real Estate Team
+- Real Estate
 modified_time: '2017-10-31T08:18:34.906-07:00'
 thumbnail: https://i.ytimg.com/vi/5Tre0KGKxBM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-308665177435166792
