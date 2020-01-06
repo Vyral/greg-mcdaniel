@@ -12,7 +12,7 @@ title: 'The Bay Area Real Estate Market Is Starting to Shift '
 date: '2017-08-22T10:51:00.000-07:00'
 author: Anonymous
 tags:
-- Bay Area Market Update
+- Market Update
 modified_time: '2017-08-23T08:25:11.509-07:00'
 thumbnail: https://i.ytimg.com/vi/MD2vZ5Hw1dE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-5631842523508481394
