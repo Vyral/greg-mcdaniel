@@ -12,7 +12,7 @@ title: '4 Negotiation Mistakes That Sellers Make '
 date: '2017-08-30T08:15:00.001-07:00'
 author: Anonymous
 tags:
-- Home seller tips
+- Home Seller Tips
 modified_time: '2017-08-31T13:35:33.407-07:00'
 thumbnail: https://i.ytimg.com/vi/tLpvuH4tg0M/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-8133563676017273143
