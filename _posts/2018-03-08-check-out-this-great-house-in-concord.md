@@ -12,7 +12,7 @@ title: 'Check Out This Great House in Concord '
 date: '2018-03-08T09:06:00.001-08:00'
 author: Caitie Neal
 tags:
-- Bay Area Homes For Sale
+- Real Estate
 modified_time: '2018-03-16T11:15:54.154-07:00'
 thumbnail: https://i.ytimg.com/vi/Pt_CDaNBQYc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-8549651925083877180
