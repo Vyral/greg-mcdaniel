@@ -36,3 +36,5 @@ On the other hand, **if you overprice your home, it's more likely to sit there o
 Stay on the lookout for our next video, where we tackle myth No. 3: Overpricing a property leads to extra room for negotiation.
 
 As always, please reach out to me if you have any real estate-related questions. I’m always happy to help.
+
+<h3><u><strong><a target="_blank" href="https://homes-lifestyles.com/how-i-sold-a-home-for-43000-more-than-what-opendoor-couldve.html">Find Part 2 Here!</a></strong></u></h3></center>
