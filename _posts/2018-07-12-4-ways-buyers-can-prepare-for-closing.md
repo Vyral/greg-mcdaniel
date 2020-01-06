@@ -12,7 +12,8 @@ title: 4 Ways Buyers Can Prepare for Closing
 date: '2018-07-12T13:18:00.000-07:00'
 author: Vyral Admin
 tags:
-- Bay Area Buyer Tips
+- Real Estate
+- Home Buyer Tips
 modified_time: '2018-07-23T12:44:13.510-07:00'
 thumbnail: https://i.ytimg.com/vi/Rdz_pb8r84E/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-6823870934809093431
