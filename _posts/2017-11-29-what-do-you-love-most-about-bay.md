@@ -12,7 +12,7 @@ title: What Do You Love Most About the Bay?
 date: '2017-11-29T12:07:00.000-08:00'
 author: Anonymous
 tags:
-- Bay Area Real Estate
+- Real Estate
 modified_time: '2017-12-06T14:08:07.166-08:00'
 thumbnail: https://i.ytimg.com/vi/9SI-xGSXy-A/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-408179447981174782
