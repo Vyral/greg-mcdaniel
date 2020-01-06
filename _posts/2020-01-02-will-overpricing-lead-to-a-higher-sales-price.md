@@ -37,6 +37,6 @@ Stay on the lookout for our next video, where we tackle myth No. 3: Overpricing 
 
 As always, please reach out to me if you have any real estate-related questions. I’m always happy to help.
 
-<center>15 Home Selling Myths to Stop Buying Into</center>
+<center><a target="_blank" href="https://youtu.be/hLNoAZfO9fI">15 Home Selling Myths to Stop Buying Into</a></center>
 
 &nbsp;
