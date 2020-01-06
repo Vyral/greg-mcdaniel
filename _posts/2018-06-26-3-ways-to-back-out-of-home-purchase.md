@@ -12,7 +12,8 @@ title: 3 Ways to Back out of a Home Purchase Without Being a Jerk
 date: '2018-06-26T13:13:00.001-07:00'
 author: Vyral Admin
 tags:
-- Bay Area Real Estate
+- Real Estate
+- Home Buyer Tips
 modified_time: '2018-06-27T10:11:24.649-07:00'
 thumbnail: https://i.ytimg.com/vi/Ni7JxqsEI9s/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-8004798158093988838
