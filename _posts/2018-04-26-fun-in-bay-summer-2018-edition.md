@@ -12,7 +12,7 @@ title: 'Fun in the Bay: Summer 2018 Edition'
 date: '2018-04-26T11:15:00.000-07:00'
 author: Caitie Neal
 tags:
-- Bay Area Summer Fun
+- Real Estate
 modified_time: '2018-04-27T11:36:06.396-07:00'
 thumbnail: https://i.ytimg.com/vi/jKhKNwRC3s0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-6537206536191933471
