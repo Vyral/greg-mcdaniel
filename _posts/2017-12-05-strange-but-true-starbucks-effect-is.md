@@ -12,7 +12,8 @@ title: 'Strange but True: The Starbucks Effect Is Real'
 date: '2017-12-05T13:49:00.001-08:00'
 author: Anonymous
 tags:
-- Bay Area Real Estate Agent
+- Real Estate
+- Home Seller Tips
 modified_time: '2017-12-06T10:46:16.183-08:00'
 thumbnail: https://i.ytimg.com/vi/HgIUvkbj-3U/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-4055909571927973175
