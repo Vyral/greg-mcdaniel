@@ -12,7 +12,7 @@ title: A Quick Market Update for the Alamo/Danville Area
 date: '2018-06-11T08:51:00.001-07:00'
 author: Vyral Admin
 tags:
-- Bay Area Market Update
+- Market Update
 modified_time: '2018-06-12T10:19:21.582-07:00'
 thumbnail: https://i.ytimg.com/vi/k9BPA3zkdEE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-123660456315844879.post-6755819307013785904
