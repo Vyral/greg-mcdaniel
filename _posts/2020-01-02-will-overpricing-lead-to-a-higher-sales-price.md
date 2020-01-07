@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   So we’ve already looked at who controls the sales price; today is about the
   effects of overpricing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Will+Overpricing+Lead+to+a+Higher+Sales+Price_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: >-
   People will actually dramatically underprice their homes so as to attract a
   large amount of buyers to the property and get the bids up.
