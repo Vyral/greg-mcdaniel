@@ -18,7 +18,9 @@ youtube_code: vuugAS9vG_o
 
 {% include youtube.html %}
 
-Today I’m at Primo’s Pizza in downtown Danville to sample some great pizza and shine a spotlight on the great philanthropic work this restaurant's been doing. Joining me is owner Drew Nichols, who was kind enough to sit down for an exclusive interview and take us back into the kitchen to witness the magic in action.
+<center><em>If you’re in the mood for great pizza and great beer, Primo’s Pizza is the place for you.</em></center>
+
+<br>Today I’m at Primo’s Pizza in downtown Danville to sample some great pizza and shine a spotlight on the great philanthropic work this restaurant's been doing. Joining me is owner Drew Nichols, who was kind enough to sit down for an exclusive interview and take us back into the kitchen to witness the magic in action.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
