@@ -18,7 +18,7 @@ youtube_code: vuugAS9vG_o
 
 {% include youtube.html %}
 
-<center><em>If you’re in the mood for great pizza and great beer, Primo’s Pizza is the place for you.</em></center>
+<center><em>If you&rsquo;re in the mood for great pizza and great beer, Primo&rsquo;s Pizza is the place for you.</em></center>
 
 <br>Today I’m at Primo’s Pizza in downtown Danville to sample some great pizza and shine a spotlight on the great philanthropic work this restaurant's been doing. Joining me is owner Drew Nichols, who was kind enough to sit down for an exclusive interview and take us back into the kitchen to witness the magic in action.
 
