@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re in the mood for great pizza and beer, Primo’s Pizza is the place for
   you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Great+Pizza+%26+Beer+at+Primos+Pizza.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
