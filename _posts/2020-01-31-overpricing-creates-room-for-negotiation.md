@@ -19,7 +19,7 @@ youtube_code: 7WRDoqFT_yQ
 
 {% include youtube.html %}
 
-<center><em>If you overprice your home, you’re bound to look like a fool in front of buyers. Today I’ll explain why.</em></center>
+<center><em>If you overprice your home, you&rsquo;re bound to look like a fool in front of buyers. Today I&rsquo;ll explain why.</em></center>
 
 <br>Today we’re continuing our 15-part series on home-selling myths that you need to stop believing immediately with myth No. 3: **Overpricing your home leaves extra room for negotiation**.
 
