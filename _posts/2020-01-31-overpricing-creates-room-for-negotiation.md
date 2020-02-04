@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you overprice your home, you’re bound to look like a fool in front of
   buyers. Today I’ll explain why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Overpricing+Creates+Room+for+Negotiation+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: Overpricing your home absolutely does not leave more room for negotiation.
 enclosure_type: video/mp4
 enclosure_time:
