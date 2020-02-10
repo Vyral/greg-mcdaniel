@@ -16,7 +16,9 @@ youtube_code: ppWSoBbHgCM
 
 {% include youtube.html %}
 
-Whether you’re interested in art, the outdoors, great food, or all of the above, San Francisco has something for everyone. Today I’ll walk you through a list of some great spots to check out when you’re in the Marina District.
+<center><em>Follow me as I tour three of San Francisco’s most iconic destinations.</em></center>
+
+<br>Whether you’re interested in art, the outdoors, great food, or all of the above, San Francisco has something for everyone. Today I’ll walk you through a list of some great spots to check out when you’re in the Marina District.
 
 **Feel free to follow along with me in the video above as I tour three must-visit destinations in San Francisco, or use the timestamps below to navigate the tour at your leisure and see some great clips of each hotspot:**
 
