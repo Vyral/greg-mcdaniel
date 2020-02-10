@@ -16,7 +16,7 @@ youtube_code: ppWSoBbHgCM
 
 {% include youtube.html %}
 
-<center><em>Follow me as I tour three of San Francisco’s most iconic destinations.</em></center>
+<center><em>Follow me as I tour three of San Francisco&rsquo;s most iconic destinations.</em></center>
 
 <br>Whether you’re interested in art, the outdoors, great food, or all of the above, San Francisco has something for everyone. Today I’ll walk you through a list of some great spots to check out when you’re in the Marina District.
 
