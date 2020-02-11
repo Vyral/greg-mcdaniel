@@ -24,10 +24,10 @@ youtube_code: ppWSoBbHgCM
 
 1:37 - **Pier 39**, one of San Francisco’s biggest attractions, has a 45-acre complex that boasts 15 restaurants, more than 90 stores, a 300-berthing arena where you can park your boat, and a five-acre park along the water.
 
-3:42 - Designed in 1917 and built in 1933, the **Golden Gate Bridge** is an iconic feature of the Bay Area and one of the largest suspension bridges in the world. Because of the saltwater in the bay, the bridge must be continually repainted.
+3:42 - Designed in 1917 and built in 1933, the **Golden Gate Bridge** is an iconic feature of the Bay Area and one of the largest suspension bridges in the world. Due to the saltwater in the bay, the bridge must be continually repainted.
 
 4:36 - **The Palace of Fine Arts** is a 17-acre parcel built to exhibit big pieces of art. It’s a great gathering place, and on any given weekend, you might see a few people getting married here\!
 
-I had a blast touring these key destinations in San Francisco, and I hope you enjoy your trip when you take it as much as I did\!
+I had a blast touring these key destinations in San Francisco, and I hope you enjoy them as much as I did\!
 
-As always, if you have any questions about real estate or great tips for the city, don’t hesitate to give me a call or send an email. I’d be happy to answer your questions and recommend some awesome stops to check out.
+As always, if you have any questions about real estate or great tips for the city, don’t hesitate to give me a call or send an email. I’d be happy to answer your questions and recommend some awesome stops.
