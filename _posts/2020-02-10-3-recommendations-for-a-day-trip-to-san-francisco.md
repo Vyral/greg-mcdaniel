@@ -5,7 +5,8 @@ date: 2020-02-10 00:00:00
 tags:
   - Real Estate
 excerpt: Follow me as I tour three of San Francisco’s most iconic destinations.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/3+Recommendations+for+a+Day+Trip+to+San+Francisco.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
