@@ -30,7 +30,7 @@ That’s absolutely not true, and let me explain why.
 
 Today’s buyers are smarter and savvier than ever before. So if you overprice your home in hopes that you’ll have extra room to negotiate with them, they’ll be able to spot it right away and think you’re an absolute fool. **Don’t be a fool—price your home properly the first time around, and you’ll be a lot happier for it**.
 
-Next time, we’ll discuss myth No. 4: The longer your home spends on the market, the better the offers you’ll get.
+Next time, we’ll discuss <u><a target="_blank" href="https://mcdanielcallahanblog.com/does-more-marketing-equal-a-higher-offer.html">myth No. 4: The longer your home spends on the market, the better the offers you&rsquo;ll get</a></u>.
 
 In the meantime, if you have any questions about buying or selling real estate, feel free to give me a call or send an email.
 
