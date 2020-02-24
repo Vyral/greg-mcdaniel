@@ -19,7 +19,7 @@ youtube_code: WfT4r8phtc8
 
 {% include youtube.html %}
 
-<center><em>We’re taking a look at the age-old question of marketing time. Does more time equal a higher price?</em></center>
+<center><em>We&rsquo;re taking a look at the age-old question of marketing time. Does more time equal a higher price?</em></center>
 
 <br>We’re back for myth no. 4 in our 15-part series on home-selling myths: The longer the marketing time, the better the offer. Sorry to burst your bubble, but that’s not the way the cookie crumbles. Conversely, **the longer your home is on the market, the more that buyers will start to worry about something that’s wrong with it and it is devalued in their eyes**. 80% of the time, your first offer is your best offer and a quick offer typically results in a higher price.
 
