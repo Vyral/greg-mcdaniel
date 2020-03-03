@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re taking a look at the age-old question of marketing time. Does more time
   equal a higher price?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Does+More+Marketing+Equal+a+Higher+Offer_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
