@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Today I’m at Forward Motion, a running shoe store, interviewing the owner,
-  Marty, about how he helps people with their running issues.
+  Marty Breen, about how he helps people with their running issues.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: KY6-nFrbor0
 
 {% include youtube.html %}
 
-<center><em>Today I&rsquo;m at Forward Motion, a running shoe store, interviewing the owner, Marty, about how he helps people with their running issues. </em></center>
+<center><em>Today I&rsquo;m at Forward Motion, a running shoe store, interviewing the owner, Marty Breen, about how he helps people with their running issues. </em></center>
 
 <br>Today I’m in downtown Danville at <u><a target="_blank" href="https://www.forwardmotion.com/">Forward Motion</a></u>, a running shoe store. They’ve been here for 29 years, a staple of Danville. Along with our team, they’re a fellow sponsor of the Devil Mountain Run. Today we’ll interview Marty Breen, the owner, about his business and how he helps people with their running dilemmas.
 
