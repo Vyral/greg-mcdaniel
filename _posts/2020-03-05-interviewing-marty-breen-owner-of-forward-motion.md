@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Today I’m at Forward Motion, a running shoe store, interviewing the owner,
-  Marty Breen, about how he helps people with their running issues.
+  Marty Breen, about how he helps people.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
