@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m at Forward Motion, a running shoe store, interviewing the owner,
   Marty Breen, about how he helps people.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Interviewing+Marty+Breen%2C+Owner+of+Forward+Motion.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
