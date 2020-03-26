@@ -19,7 +19,7 @@ youtube_code: YGg9sURrsIU
 
 {% include youtube.html %}
 
-<center><em>Today we’re discussing home selling myth No. 5: Does a quick offer mean the property is priced too low?</em></center>
+<center><em>Today we&rsquo;re discussing home selling myth No. 5: Does a quick offer mean the property is priced too low?</em></center>
 
 <br>Today is myth No. 5 in our 15-part series on home-selling myths you need to stop believing: A quick offer means the property is priced too low.
 
