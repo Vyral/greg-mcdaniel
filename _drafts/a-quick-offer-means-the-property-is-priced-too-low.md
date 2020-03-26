@@ -30,3 +30,5 @@ What that really means is that ahead of time, the real estate agent and homeowne
 **A home will never sell under the market value**. How can that be true? Well, I’ve never seen a house sell under market value because market value is what a buyer is willing and able to pay for the home. Market values are set by buyers in that market. Remember: Market value and list price aren’t always the same.
 
 If you have any questions about this myth or real estate in general, please reach out to me via phone or email. I would love to help you.
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
