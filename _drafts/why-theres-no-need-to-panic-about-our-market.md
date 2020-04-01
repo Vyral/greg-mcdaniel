@@ -19,6 +19,8 @@ youtube_code: 7gKddXEPfOw
 
 {% include youtube.html %}
 
-For this weekly market update, I have the latest for you about what’s going on with real estate during the coronavirus pandemic. Although many out there are panicking about this killing the industry, I can tell you this is not the case after analyzing the numbers. Over the last seven days, there have been 55 new homes listed on the market, 63 homes that went pending, and 77 homes that have sold. **Our market is still active, moving, and there are people still buying and selling homes**.
+<center><em>I have the latest for you about what’s going on with real estate during the coronavirus pandemic.</em></center>
+
+<br>For this weekly market update, I have the latest for you about what’s going on with real estate during the coronavirus pandemic. Although many out there are panicking about this killing the industry, I can tell you this is not the case after analyzing the numbers. Over the last seven days, there have been 55 new homes listed on the market, 63 homes that went pending, and 77 homes that have sold. **Our market is still active, moving, and there are people still buying and selling homes**.
 
 If you have any questions about real estate, reach out to us. We would love to speak with you.
