@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I have the latest for you about what’s going on with real estate during the
   coronavirus pandemic.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/Why+Theres+No+Need+to+Panic+About+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
