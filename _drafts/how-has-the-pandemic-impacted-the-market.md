@@ -19,7 +19,9 @@ youtube_code: dWR04n45M6A
 
 {% include youtube.html %}
 
-Even during the pandemic, the real estate industry is continuing to operate, though in the effort to help stop the spread of COVID-19, I’ve been working from home.
+<center><em>I’ve been reading up on studies of past pandemics and articles on securing your financial future. I’ll share what I’ve learned.</em></center>
+
+<br>Even during the pandemic, the real estate industry is continuing to operate, though in the effort to help stop the spread of COVID-19, I’ve been working from home.
 
 Speaking of real estate, I recently read an article from Zillow that talked about the effects that previous pandemics had on the real estate market. I learned that **for the most part, home prices remained steady or only dropped by a little bit**. This makes sense; fewer transactions mean that prices can’t really change all that much. You can <u><a target="_blank" href="https://www.zillow.com/research/pandemic-literature-review-26643/">read the article in full here</a></u>. Forbes Magazine also discussed how you can calculate how the pandemic might impact your financial picture. <u><a target="_blank" href="https://www.forbes.com/sites/advisor/2020/03/22/your-money-and-coronavirus-a-financial-protection-guide/#1c6fdab9306a">Read that article here</a></u>.
 
