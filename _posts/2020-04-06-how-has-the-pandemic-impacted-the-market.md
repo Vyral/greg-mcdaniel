@@ -19,7 +19,7 @@ youtube_code: dWR04n45M6A
 
 {% include youtube.html %}
 
-<center><em>I’ve been reading up on studies of past pandemics and articles on securing your financial future. I’ll share what I’ve learned.</em></center>
+<center><em>I&rsquo;ve been reading up on studies of past pandemics and articles on securing your financial future. I&rsquo;ll share what I&rsquo;ve learned.</em></center>
 
 <br>Even during the pandemic, the real estate industry is continuing to operate, though in the effort to help stop the spread of COVID-19, I’ve been working from home.
 
