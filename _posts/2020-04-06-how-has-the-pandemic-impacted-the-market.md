@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I’ve been reading up on studies of past pandemics and articles on securing
   your financial future. I’ll share what I’ve learned.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/How+Has+the+Pandemic+Impacted+the+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
