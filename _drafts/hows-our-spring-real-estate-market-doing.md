@@ -19,4 +19,6 @@ youtube_code: Z3VmtLCyGOs
 
 {% include youtube.html %}
 
-This certainly isn’t the spring real estate market that we usually have. We’re going to make it out on the other side, but in today’s market, sellers still have an advantage due to low inventory and low interest rates. Jumbo loans for homebuyers have gone by the wayside, and you can still buy and sell. **Our team is here to help and serve you with whatever real estate needs you have**.
+<center><em>Although this isn’t like spring markets that we’ve seen in the past, there are some similarities of note that I’ve been noticing.</em></center>
+
+<br>This certainly isn’t the spring real estate market that we usually have. We’re going to make it out on the other side, but in today’s market, sellers still have an advantage due to low inventory and low interest rates. Jumbo loans for homebuyers have gone by the wayside, and you can still buy and sell. **Our team is here to help and serve you with whatever real estate needs you have**.
