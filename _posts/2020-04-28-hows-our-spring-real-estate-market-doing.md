@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Although this isn’t like spring markets that we’ve seen in the past, there are
   some similarities I’ve been noticing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Hows+Our+Spring+Real+Estate+Market+Doing_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
