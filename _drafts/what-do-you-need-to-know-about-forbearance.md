@@ -16,6 +16,8 @@ youtube_code: B8q5Mftqk9I
 
 {% include youtube.html %}
 
-Today I have an excellent guest joining me through video chat. Miles Palacios from 1st Choice Mortgage is here to discuss everything forbearance: what it is, how you should use it, if you should use it, etc. He was my co-host for a while on our radio show and dropped knowledge bombs all the time, so I knew he would be a great person to bring back to examine this vital topic.
+<center><em>Miles Palacios joins me to discuss everything about forbearance.</em></center>
+
+<br>Today I have an excellent guest joining me through video chat. Miles Palacios from 1st Choice Mortgage is here to discuss everything forbearance: what it is, how you should use it, if you should use it, etc. He was my co-host for a while on our radio show and dropped knowledge bombs all the time, so I knew he would be a great person to bring back to examine this vital topic.
 
 To begin, **forbearance is a pause on your mortgage payments**; however, those payments are still due at the end of the forbearance period. For the full rundown, follow along in the video above.
