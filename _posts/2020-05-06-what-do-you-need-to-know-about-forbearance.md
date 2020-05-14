@@ -5,7 +5,8 @@ date: 2020-05-06 00:00:00
 tags:
   - Real Estate
 excerpt: Miles Palacios joins me to discuss everything about forbearance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/What+Do+You+Need+to+Know+About+Forbearance_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
