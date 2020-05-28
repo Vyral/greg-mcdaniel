@@ -17,7 +17,9 @@ youtube_code: uuIyZ4ElUsw
 
 {% include youtube.html %}
 
-Today I’ll debunk five common myths about down payments for when it comes time for you to buy a house:
+<center><em>There are five common myths about down payments that need to be debunked.</em></center>
+
+<br>Today I’ll debunk five common myths about down payments for when it comes time for you to buy a house:
 
 **1\. You need to put 20% down when buying a new property**. This just isn’t true, but surveys show that 41% of prospective buyers believe this. Many programs are designed to help buyers just like you. Around 77% of the programs in our database are specifically meant for down payment and closing cost assistance; 7% help with first mortgages; 6% are specifically earmarked for mortgage credit certificates (MCCs); and the rest are miscellaneous programs to help you get into a home.
 
