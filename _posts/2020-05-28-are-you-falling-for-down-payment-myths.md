@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-28-mcdaniel-youtube.jpg
-youtube_code: uuIyZ4ElUsw
+youtube_code: xayV4e8V5mA
 ---
 
 {% include youtube.html %}
@@ -33,6 +33,6 @@ youtube_code: uuIyZ4ElUsw
 
 {% include pullquote.html %}
 
-Homeowners can jumpstart their program by completing a homeownership education course, which is typically required to qualify for the program. This education gives homebuyers confidence in the home buying process, financing options, and budgeting. After the homebuyer is approved for the program, the agency will provide documentation that can be submitted with an offer. This is also beneficial to the homeless seller because these programs can sometimes help cover the closing costs.
+Homeowners can jumpstart their program by completing a homeownership education course, which is typically required to qualify for the program. This education gives homebuyers confidence in the home buying process, financing options, and budgeting. After the homebuyer is approved for the program, the agency will provide documentation that can be submitted with an offer. This is also beneficial to the home seller because these programs can sometimes help cover the closing costs.
 
 If you have questions about any of these programs, don’t hesitate to reach out to me. Hope to hear from you soon\!
