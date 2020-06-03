@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: There are five common myths about down payments that need to be debunked.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Are+You+Falling+for+Down+Payment+Myths_.mp4
 pullquote: Reach out to your mortgage broker to see what program is right for you!
 enclosure_type: video/mp4
 enclosure_time:
