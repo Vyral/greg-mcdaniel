@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Offer Means the Property is Priced Too Low
-date: 2020-03-26 00:00:00
+date: 2020-06-24 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
