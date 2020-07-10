@@ -17,7 +17,9 @@ youtube_code: NIISoNnRxu4
 
 {% include youtube.html %}
 
-Today we’re taking a look at myth No. 6 in our 15-part series of home selling myths that need to be abolished and burned at the stake. The myth in question this time? Real estate agents don’t purposely overprice properties.
+<center><em>Here’s why some agents purposely overprice their listings.</em></center>
+
+<br>Today we’re taking a look at myth No. 6 in our 15-part series of home selling myths that need to be abolished and burned at the stake. The myth in question this time? Real estate agents don’t purposely overprice properties.
 
 **Sorry to burst your bubble, but they do**. It’s called “buying the listing.” It’s a dirty little secret, but it’s one that you might have heard about. Many of us know that there are agents out there who will pretty much say anything they can when it comes to pricing in order to get a listing, then once it goes on the market they’ll readjust the price.
 
