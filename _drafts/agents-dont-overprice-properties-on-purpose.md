@@ -30,3 +30,5 @@ I’m not saying that all agents do this consistently. **However, I do know that
 I wanted you to keep this in mind because our next myth is, “The real estate agent with the lowest commission will net the seller more.” Is this true? Stay tuned to find out.
 
 If you have any other questions for me in the meantime, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
