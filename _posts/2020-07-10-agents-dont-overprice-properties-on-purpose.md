@@ -17,7 +17,7 @@ youtube_code: NIISoNnRxu4
 
 {% include youtube.html %}
 
-<center><em>Here’s why some agents purposely overprice their listings.</em></center>
+<center><em>Here&rsquo;s why some agents purposely overprice their listings.</em></center>
 
 <br>Today we’re taking a look at myth No. 6 in our 15-part series of home selling myths that need to be abolished and burned at the stake. The myth in question this time? Real estate agents don’t purposely overprice properties.
 
