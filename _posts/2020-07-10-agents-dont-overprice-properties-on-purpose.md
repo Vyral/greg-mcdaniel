@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s why some agents purposely overprice their listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Agents+Dont+Overprice+Properties+on+Purpose+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: We feel telling the truth is more important than a quick buck.
 enclosure_type: video/mp4
 enclosure_time:
