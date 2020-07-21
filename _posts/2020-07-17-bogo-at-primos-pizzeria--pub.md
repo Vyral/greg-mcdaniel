@@ -19,3 +19,5 @@ youtube_code: mkrjLCO2F10
 <center><em>We&rsquo;re very excited to tell you about this BOGO offer from Primo&rsquo;s.</em></center>
 
 <br>We have some exciting news to share today. I’m at <u><a target="_blank" href="http://primosdanville.com">Primo&rsquo;s Pizzeria &amp; Pub</a></u> with Drew Nichols, and he has a special offer to share with you and your family. Right now, you can buy any size pizza and get another of equal or lesser value for free. You can use this for delivery, take-out, or dine-in here on the patio, but act quickly because this offer is only good for the first 100 customers who use it.
+
+**To receive your code for a free pizza, <u><a target="_blank" href="https://www.digitalcma.com/lp/5/39/step1">register here</a></u> and we'll send it to you\!**
