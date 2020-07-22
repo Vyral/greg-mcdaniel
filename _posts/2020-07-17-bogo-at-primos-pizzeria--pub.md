@@ -5,7 +5,8 @@ date: 2020-07-17 00:00:00
 tags:
   - Real Estate
 excerpt: We’re very excited to tell you about this BOGO offer from Primo’s.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/BOGO+At+Primos+Pizzeria+%26+Pub.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
