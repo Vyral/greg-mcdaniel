@@ -19,11 +19,11 @@ youtube_code: SaIWpIFccuY
 
 <center><em>It&rsquo;s time to take a look behind another home-selling myth.</em></center>
 
-<br>It’s time once again to cover another myth in our 15-part series on home seller myths. Let’s take a closer look at Myth No. 7: The real estate agent with the lowest commission will net the seller more.
+<br>It’s time once again to cover another myth in our 15-part series on home seller myths. Let’s take a closer look at **Myth No. 7: The real estate agent with the lowest commission will net the seller more**.
 
 In theory, this could be plausibly correct, but almost all of the time it’s not. Here's why: If a real estate agent is going to cut their own throat on their commission and what they take home to their family, why would they negotiate harder for your sales price?
 
-A full commission agent will have more tools and resources to get your home seen on every platform at every opportunity available. Is it greed? No, it’s pure business. Businesses are run off of cash, not “thank you’s”. Don’t be penny-wise and pound-foolish.
+A full commission agent will have more tools and resources to get your home seen on every platform at every opportunity available. Is it greed? No, it’s pure business. Businesses are run off of cash, not “thank you’s”. **Don’t be penny-wise and pound-foolish**.
 
 Stay tuned for myth No. 8, which states, “You can completely depend on online evaluations.” I’ll dive deeper into this next time.
 
