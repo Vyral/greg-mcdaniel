@@ -30,3 +30,5 @@ Stay tuned for myth No. 8, which states, “You can completely depend on online 
 {% include pullquote.html %}
 
 In the meantime, if you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
