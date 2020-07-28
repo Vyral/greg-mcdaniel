@@ -28,7 +28,7 @@ I’m not saying that all agents do this consistently. **However, I do know that
 
 {% include pullquote.html %}
 
-I want you to keep this in mind because our next myth is, “The real estate agent with the lowest commission will net the seller more.” Is this true? Stay tuned to find out.
+I want you to keep this in mind because our next myth is, “The real estate agent with the lowest commission will net the seller more.” Is this true? <u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/does-a-lower-commission-mean-more-money.html">Stay tuned to find out</a></u>.
 
 If you have any other questions for me in the meantime, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.
 
