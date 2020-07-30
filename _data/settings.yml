@@ -41,7 +41,7 @@ CTAs:
   first_CTA_URL: >-
     https://cloudcma.com/api_widget/6757802779fbc05a66bfd8f78d617a92/show?post_url=cloudcma.com&source_url=ua
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.buyandsellalamodanvillehomes.com/'
+  second_CTA_URL: 'https://www.buyandsellalamodanvillehomes.com/map'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
