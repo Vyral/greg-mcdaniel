@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: It’s time to dissect another home-selling myth.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Does+a+Lower+Commission+Mean+More+Money_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: 'Businesses run off cash, not thank you’s.'
 enclosure_type: video/mp4
 enclosure_time:
