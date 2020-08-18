@@ -20,7 +20,7 @@ youtube_code: WfAgSDQY10Y
 
 <center><em>Realtors do more than just help you buy and sell&mdash;let&rsquo;s go on a tour of my three favorite parks.</em></center>
 
-<br>Allow me to take you on a tour of my three favorite parks in Danville, Walnut Creek, and Pleasant Hill to show you the beauty and utility of these spaces.
+<br>Allow me to take you on a tour of my two favorite parks in Danville and Walnut Creek to show you the beauty and utility of these spaces.
 
 &nbsp;I’ll provide some information about these areas below; for the full tour, refer to the video above\! You can also use the timestamps below to navigate the tour at your leisure.
 
