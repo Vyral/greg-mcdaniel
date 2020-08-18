@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Tour of Hap McGee Park, Heather Farms, and Larky Park'
+title: A Tour of Hap McGee Park and Heather Farms
 date: 2020-08-11 00:00:00
 tags:
   - Real Estate
