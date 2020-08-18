@@ -5,8 +5,8 @@ date: 2020-08-11 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  Realtors do more than just help you buy and sell—let’s go on a tour of my
-  three favorite parks.
+  Realtors do more than just help you buy and sell—let’s go on a tour of my two
+  favorite parks.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: WfAgSDQY10Y
 
 {% include youtube.html %}
 
-<center><em>Realtors do more than just help you buy and sell&mdash;let&rsquo;s go on a tour of my three favorite parks.</em></center>
+<center><em>Realtors do more than just help you buy and sell&mdash;let&rsquo;s go on a tour of my two favorite parks.</em></center>
 
 <br>Allow me to take you on a tour of my two favorite parks in Danville and Walnut Creek to show you the beauty and utility of these spaces.
 
