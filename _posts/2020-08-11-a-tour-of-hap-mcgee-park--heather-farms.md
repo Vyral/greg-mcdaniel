@@ -22,7 +22,7 @@ youtube_code: WfAgSDQY10Y
 
 <br>Allow me to take you on a tour of my two favorite parks in Danville and Walnut Creek to show you the beauty and utility of these spaces.
 
-&nbsp;I’ll provide some information about these areas below; for the full tour, refer to the video above\! You can also use the timestamps below to navigate the tour at your leisure.
+I’ll provide some information about these areas below; for the full tour, refer to the video above\! You can also use the timestamps below to navigate the tour at your leisure.
 
 **0:28 — Located in Danville, <u><a target="_blank" rel="noopener" href="https://www.danville.ca.gov/613/Hap-Magee-Ranch-Park">Hap McGee Park</a></u> is a 17-acre parcel of land that was originally used as a summer camp for orphans from San Francisco**. Later, it transformed into a cattle ranch for longhorn steers. Now, it’s a great big park where everyone can gather. There is a lot of neat, old architecture to appreciate, as well as a large play yard and dog park.
 
