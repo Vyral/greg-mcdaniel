@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Tour of Hap McGee Park & Heather Farms
-date: 2020-08-11 00:00:00
+date: 2020-08-17 00:00:00
 tags:
   - Real Estate
 excerpt: >-
