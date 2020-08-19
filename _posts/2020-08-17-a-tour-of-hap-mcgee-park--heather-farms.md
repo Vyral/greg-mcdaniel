@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Realtors do more than just help you buy and sell—let’s go on a tour of my two
   favorite parks.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/A+Tour+of+Hap+McGee+Park+%26+Heather+Farms.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
