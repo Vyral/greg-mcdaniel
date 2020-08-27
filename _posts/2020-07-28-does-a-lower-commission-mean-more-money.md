@@ -26,7 +26,7 @@ In theory, this is plausible, but almost all of the time it’s not the case. He
 
 A full commission agent will have more tools and resources to get your home seen on every platform at every opportunity available. Is it greed? No, it’s pure business. Businesses are run off of cash, not “thank you’s”. **Don’t be penny-wise and pound-foolish**.
 
-Stay tuned for Myth No. 8, which states, “You can completely depend on online evaluations.” I’ll dive deeper into this next time.
+Stay tuned for Myth No. 8, which states, “<u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/can-you-depend-on-internet-valuations.html">You can completely depend on online evaluations</a></u>.” I’ll dive deeper into this next time.
 
 {% include pullquote.html %}
 
