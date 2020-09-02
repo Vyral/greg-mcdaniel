@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Think you can rely on online home valuations? Think again.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Can+You+Depend+on+Internet+Valuations_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: Zestimates are a guess.
 enclosure_type: video/mp4
 enclosure_time:
