@@ -25,11 +25,11 @@ youtube_code: IdAnzK26HvE
 
 <br>Today we’ll be diving right into a question that can be pretty tricky to answer: Should sellers accept a contingent offer on their property?
 
-A contingent offer means that the buyer wouldn’t purchase your home until they sell theirs first. If you accept, you’ll then be sitting in your home and waiting for the buyer to make a sale. They may even ask you to take your home off the market in the meantime.
+A contingent offer means that the buyer won't purchase your home until they sell theirs first. If you accept, you’ll then be sitting in your home and waiting for the buyer to make a sale. They may even ask you to take your home off the market in the meantime.
 
 You’ll need to look at what’s important to you and your family. **If you’re trying to get out fast, accepting a contingent offer can be a good idea**. If you have plenty of time, however, I suggest that you don’t accept the contingency. Still, we tell our clients to look at the price, terms, and lender before turning down the offer.
 
-If you accept a contingency offer, a good strategy can be to tell the buyer that if another offer is made, you’ll accept that one after giving them 48 hours’ notice to drop the contingency. The new offer will be put in the primary position while the contingent offer will be placed on backup. **This protects you as the seller, as it protects the amount of time your home spends on the market**.
+If you accept a contingency offer, you can to tell the buyer that if another offer is made, you’ll accept that one after giving them 48 hours’ notice to drop the contingency. The new offer will be put in the primary position while the contingent offer will be placed on backup. **This protects you as the seller, as it protects the amount of time your home spends on the market**.
 
 {% include pullquote.html %}
 
