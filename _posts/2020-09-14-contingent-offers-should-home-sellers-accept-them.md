@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Before you accept (or refuse) a contingency offer, make sure to watch this
   informative video.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Contingent+Offers-+Should+Home+Sellers+Accept+Them_.mp4
 pullquote: >-
   We tell our clients to look at the price, terms, and lender before turning
   down the offer.
