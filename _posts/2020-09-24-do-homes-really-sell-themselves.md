@@ -5,7 +5,7 @@ date: 2020-09-24 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: Here’s No. 9 on our list of 15 home selling myths to be debunked.
+excerpt: 'Homes don''t sell themselves, and I''ll share why.'
 enclosure:
 pullquote: Homes don’t sell themselves—great marketing strategies do.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: wGyevHHKFFY
 
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s No. 9 on our list of 15 home selling myths to be debunked.</em></center>
+<center><em>Homes don't sell themselves, and I'll share why.</em></center>
 
 <br>Sellers often tell me that the home just sells itself, but that’s just not how real estate works. Here’s why:
 
