@@ -28,3 +28,5 @@ Yes, your home has a ton of value; everyone’s home does. However, most homes a
 {% include pullquote.html %}
 
 Stay tuned to my blog for home selling myth No. 10: Selling as For Sale By Owner saves you money. In the meantime, if you have any questions or need real estate assistance, reach out to me. I’d love to help you.
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
