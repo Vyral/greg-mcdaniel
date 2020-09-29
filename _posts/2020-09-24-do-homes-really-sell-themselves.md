@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-26-mcdaniel-youtube.jpg
-youtube_code: wGyevHHKFFY
+youtube_code: xozOMvFVr_o
 ---
 
 {% include youtube.html %}
