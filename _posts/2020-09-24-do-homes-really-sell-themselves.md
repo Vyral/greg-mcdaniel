@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Homes don''t sell themselves, and I''ll share why.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Do+Homes+Really+Sell+Themselves_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: Homes don’t sell themselves—great marketing strategies do.
 enclosure_type: video/mp4
 enclosure_time:
