@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/09-25-mcdaniel-youtube.jpg
-youtube_code: 8onmREj498Q
+youtube_code: c9mpVAkLzh8
 ---
 
 {% include youtube.html %}
@@ -21,7 +21,7 @@ youtube_code: 8onmREj498Q
 
 <br>Is it a good time to buy or sell in light of the pandemic?
 
-According to a recent Bloomberg article, over 40% of the workforce now works from home. This isn’t exactly new news; we all know a lot of people are working from home and getting relatively comfortable doing so. However, it does point to a shift in the way real estate is being bought and sold.
+According to a recent Bloomberg article, over 40% of the workforce now works from home. This isn’t exactly news; we all know a lot of people are working from home and getting relatively comfortable doing so. However, it does point to a shift in the way real estate is being bought and sold.
 
 There’s a fever pitch among buyers and sellers right now, and **in our area, I believe it’s a phenomenal time to sell**. You have a once-in-a-lifetime opportunity to take advantage of a situation we’ve never seen before. With entire national economies being shut down and so many people relocating, we’re shifting the way we live. Companies are telling employees that they can work from home either full-time or part-time, and they’re moving to where they want to live.
 
