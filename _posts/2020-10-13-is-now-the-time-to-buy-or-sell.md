@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Now the Time to Buy or Sell?
-date: 2020-10-07 00:00:00
+date: 2020-10-13 00:00:00
 tags:
   - Real Estate
   - Market Update
