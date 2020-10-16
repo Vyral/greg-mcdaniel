@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s how the pandemic has affected buyers and sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Is+Now+the+Time+to+Buy+or+Sell_.mp4
 pullquote: 'If you sell now, you’ll command top dollar.'
 enclosure_type: video/mp4
 enclosure_time:
