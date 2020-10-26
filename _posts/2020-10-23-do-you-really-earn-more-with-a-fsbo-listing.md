@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/09-23-mcdaniel-youtube.jpg
+youtube_alternate_image: /uploads/09-23-mcdaniel-youtube-1.jpg
 youtube_code: ubeTJ0pX9No
 ---
 
@@ -23,13 +23,13 @@ youtube_code: ubeTJ0pX9No
 
 <center><em>Is it true that going the for-sale-by-owner route will net you more on your sale?</em></center>
 
-<br>We’ve been working our way through the 15 biggest home selling myths, and today brings us to myth No. 10: For-sale-by-owner homes net more money.
+<br>We’ve been working our way through the 15 biggest home selling myths, and today brings us to Myth No. 10: For-sale-by-owner homes net more money.
 
-It’s easy to think, “Of course it nets more money\! I don’t have to pay those agents 5%, 6%, 7% of my hard-earned equity.” **The deeper you dive, though, the more you’ll realize that those percentages are nothing compared to what you get in return**.
+It’s easy to think, “Of course it nets more money\! I don’t have to pay those agents 5%, 6%, or 7% of my hard-earned equity.” **The deeper you dive, though, the more you’ll realize that those percentages are nothing compared to what you get in return**.
 
 {% include pullquote.html %}
 
-Let’s break it down. You likely have a full-time job, right? With all the time you spend at work, who’s going to be marketing the property? Who’s screening potential buyers? Who’s showing the home and conducting showings? Who’s micromanaging the piles of paperwork to ensure you don’t fall into a pitfall of legal issues? Which title company will you choose? To give you an idea of what you’re in for, how does “properly filing updated documents and addendums” sound to you?
+Let’s break it down. You likely have a full-time job, right? With all the time you spend at work, who’s going to be marketing the property? Who’s screening potential buyers? Who’s conducting showings? Who’s micromanaging the piles of paperwork to ensure you don’t fall into a pitfall of legal issues? Which title company will you choose? To give you an idea of what you’re in for, how does “properly filing updated documents and addendums” sound to you?
 
 The list goes on and on—it’s a lot for an untrained individual to handle. **However, a Realtor is a licensed professional who understands how to handle these things and does so on a daily basis**. The national statistics speak for themselves: People who sell their own homes make 15% to 20% less than what they’d make working with a real estate agent.
 
