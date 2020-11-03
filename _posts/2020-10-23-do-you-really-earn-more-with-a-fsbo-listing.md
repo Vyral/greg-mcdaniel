@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Is it true that going the for-sale-by-owner route will net you more on your
   sale?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/Do+You+Really+Earn+More+With+a+FSBO+Listing_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote: >-
   People who sell their own homes make 15% to 20% less than what they’d make
   working with a real estate agent.
