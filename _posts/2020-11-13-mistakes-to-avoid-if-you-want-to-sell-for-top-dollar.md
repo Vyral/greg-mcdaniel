@@ -27,7 +27,7 @@ youtube_code: dDENWzVtZkY
 
 **3\. Only considering the highest offer**. Many terms make up an offer. Price is important, but it’s not the only thing you should consider. Don’t just automatically go for the highest price, look for the offer that presents the most value to you.
 
-**4\. Failing to prepare your home**. If there are simple fixes we can make, like painting or power washing, we want to do that before you start showing the home and put it on the market. You don’t have to remodel anything, but you do need to make your home shine.
+**4\. Failing to prepare your home**. If there are simple fixes you can make, like painting or power washing, do them before you start showing the home. You don’t have to remodel anything, but you do need to make your home shine.
 
 {% include pullquote.html %}
 
