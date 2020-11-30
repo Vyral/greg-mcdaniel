@@ -32,4 +32,6 @@ What that really means is that, ahead of time, the real estate agent and homeown
 
 If you have any questions about this myth or real estate in general, please reach out to me via phone or email. I would love to help you.
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
