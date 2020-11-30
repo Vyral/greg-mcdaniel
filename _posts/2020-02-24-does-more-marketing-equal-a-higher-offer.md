@@ -26,4 +26,6 @@ youtube_code: WfT4r8phtc8
 
 Stay tuned for the next video in this series, where we’ll look at whether <u><a target="_blank" href="https://mcdanielcallahanblog.com/a-quick-offer-means-the-property-is-priced-too-low.html">receiving a quick offer means that the home&rsquo;s price is too low</a></u>. If you have any questions for me in the meantime, feel free to reach out via phone or email today.
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
