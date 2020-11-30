@@ -34,4 +34,6 @@ Next time, we’ll discuss <u><a target="_blank" href="https://mcdanielcallahanb
 
 In the meantime, if you have any questions about buying or selling real estate, feel free to give me a call or send an email.
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
