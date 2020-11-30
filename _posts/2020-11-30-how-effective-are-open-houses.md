@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: Here’s why open houses aren’t likely to make or break your home sale.
 enclosure:
-pullquote:
+pullquote: You simply don’t need to have an open house every weekend.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
