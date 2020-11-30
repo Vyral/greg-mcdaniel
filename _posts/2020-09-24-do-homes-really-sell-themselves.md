@@ -30,4 +30,6 @@ Yes, your home has a ton of value; everyone’s home does. However, most homes a
 
 Stay tuned to my blog for home selling Myth No. 10: <u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/do-you-really-earn-more-with-a-fsbo-listing.html">Selling as For-Sale-By-Owner saves you money</a></u>. In the meantime, if you have any questions or need real estate assistance, reach out to me. I’d love to help you.
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
