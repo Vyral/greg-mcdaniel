@@ -38,4 +38,6 @@ If you’re still tempted to make a for-sale-by-owner listing, go for it\! You m
 
 If you’re thinking about selling your home or would like to learn more about how much you could make, feel free to reach out to me for a consultation. Also, make sure to stay tuned for next week when we dive into our 11th myth: <u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/how-effective-are-open-houses.html">Open houses sell homes</a></u>. I’ll see you then\!
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
