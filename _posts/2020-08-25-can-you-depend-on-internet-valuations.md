@@ -32,4 +32,6 @@ Bottom line: When it comes to getting a real valuation, don’t confuse your Zes
 
 Keep an eye out for my next blog post regarding the ninth home selling myth on our list: <u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/do-homes-really-sell-themselves.html">The house sells itself</a></u>. In the meantime, reach out to me with any questions you have about real estate.
 
+---
+
 <center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
