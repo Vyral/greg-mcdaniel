@@ -19,7 +19,7 @@ youtube_code: 8wW9lBVa8Z8
 
 <center><em>Here&rsquo;s why open houses aren&rsquo;t likely to make or break your home sale.</em></center>
 
-<br>**Update:** The original video here was filmed in January of 2020. Obviously, things have changed since then. To accommodate COVID-19 precautions, we're doing digital open houses, scheduling buyers further apart, and doing live walkthroughs on Facebook and Instagram. We're committed to serving you at the highest level possible, and if you have any questions, feel free to reach out.
+<br>**Update:** The original video here was filmed in January of 2020. Obviously, things have changed since then. To accommodate COVID-19 precautions, we're doing digital open houses, scheduling buyers further apart, and streaming live walkthroughs on Facebook and Instagram.
 
 What percentage of home sales do you think result directly from an open house event? **According to the National Association of Realtors, only 2% of home sales actually come through an open house**. It’s great to showcase your property, but doing so means you’ll have to go somewhere else and find a way to occupy three hours while you let strangers pass in and out of your home. Open houses are inherently inconvenient, but thankfully the truth behind this myth will set you free.
 
