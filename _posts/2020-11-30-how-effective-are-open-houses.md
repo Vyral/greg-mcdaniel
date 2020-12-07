@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s why open houses aren’t likely to make or break your home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/How+Effective+Are+Open+Houses_.mp4
 pullquote: You simply don’t need to have an open house every weekend.
 enclosure_type: video/mp4
 enclosure_time:
