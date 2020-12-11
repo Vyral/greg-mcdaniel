@@ -22,7 +22,7 @@ youtube_code: s1EisaN7M6E
 
 Today I wanted to take a little time to say how much we appreciate every one of you. We care about all you guys; this year has been difficult on so many different levels, and everything’s come at us. However, **each of you is a survivor** because you’re here watching or reading this, you made it through, and you tried to stay positive. Thank you so much for watching my videos all year.
 
-I also want to give a double high-five to my team at Vyral Marketing; they do an excellent job of putting together all my clips, and my coach Paul hangs out with me every Friday when I shoot these videos.
+I also want to give a double high-five to my team at <u><a target="_blank" rel="noopener" href="http://www.getvyral.com/official-real-estate-messages">Vyral Marketing</a></u>; they do an excellent job of putting together all my clips, and my coach Paul hangs out with me every Friday when I shoot these videos.
 
 {% include pullquote.html %}
 
