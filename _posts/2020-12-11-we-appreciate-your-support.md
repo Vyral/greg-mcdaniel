@@ -26,6 +26,6 @@ I also want to give a double high-five to my team at <u><a target="_blank" rel="
 
 {% include pullquote.html %}
 
-When we cross the threshold of 2021, I would love you to **keep our team in mind for any real estate needs you may have or if you just have a question we can answer**. If you need a resource or referral, contact us; you don’t only have to reach out about real estate, we can help you find the best painter, handyman, gardener, financial advisor, and more. We’re well-connected, and we’d be glad to assist you in any way, shape, or form.
+When we cross the threshold of 2021, I would love you to **keep our team in mind for any real estate needs you may have or if you just have a question we can answer**. If you need a resource or referral, contact us; you don’t only have to reach out about real estate—we can help you find the best painter, handyman, gardener, financial advisor, and more. We’re well-connected, and we’d be glad to assist you in any way, shape, or form.
 
 If there’s anything we can do for you, reach out via phone or email. If you just want to say hi, please do. Keep watching the videos, know we care about you, and have a blessed, powerful, and exceptional rest of 2020. Make 2021 the most fantastic year of your life\!
