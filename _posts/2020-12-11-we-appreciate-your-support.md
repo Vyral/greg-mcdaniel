@@ -5,7 +5,8 @@ date: 2020-12-11 00:00:00
 tags:
   - Real Estate
 excerpt: 'A giant thank-you to you all, and keep us in mind if you need help in 2021.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2020/We+Appreciate+Your+Support.mp4
 pullquote: I appreciate every one of you.
 enclosure_type: video/mp4
 enclosure_time:
