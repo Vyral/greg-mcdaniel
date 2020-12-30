@@ -28,3 +28,7 @@ However, there are two updates that usually get you a 110% to 150% return on the
 Remember, when you own a home, it’s not always about remodeling to sell; it’s about living a lifestyle that makes you comfortable. **Do what makes you happy to spend time in your home**.
 
 If you have questions about this myth or anything else real estate related, reach out via phone or email. I’d love to help you.
+
+---
+
+<center><h4><u><strong><a target="_blank" href="https://www.youtube.com/playlist?list=PL4Ay_MVLm6QGE37Lr8a94OqNrVBj-zDIw">15 Home Selling Myths to Stop Buying Into</a></strong></u></h4></center>
