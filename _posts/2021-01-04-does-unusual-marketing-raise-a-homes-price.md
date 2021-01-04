@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Unusual Marketing Raise a Home’s Price?
-date: 2021-01-04 17:35:02
+date: 2021-01-04 17:35:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -25,7 +25,7 @@ This myth is interesting because there are some things we real estate just agent
 
 **We agents will do everything we can to get it sold with the best possible terms**, but advertising in creative ways such as in national publications or on television may not get your property the exposure it needs. It comes down to the understanding of both the agent and homeowner that this home has X, Y, and Z challenges and A, B, and C virtues. Let’s price it appropriately and get it sold.
 
-If you have any other questions about this myth or real estate in general, get a hold of me via phone or email. I’d be happy to help you. Don’t forget to come back to find out about our next selling myth—lucky number 13!
+If you have any other questions about this myth or real estate in general, get a hold of me via phone or email. I’d be happy to help you. Don’t forget to come back to find out about our next selling myth—lucky number 13\!
 
 ---
 
