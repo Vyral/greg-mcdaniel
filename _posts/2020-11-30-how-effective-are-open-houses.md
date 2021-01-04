@@ -32,7 +32,7 @@ Here at the McDaniel Callahan Team, we’ve held a lot of open houses and found 
 
 {% include pullquote.html %}
 
-Of course, if you have further questions on this home-selling myth or any other real estate topic, you can always reach out to us via phone or email for more information. We’re here to help\! Stay tuned for Myth No. 12: Unusual marketing leads to higher prices.
+Of course, if you have further questions on this home-selling myth or any other real estate topic, you can always reach out to us via phone or email for more information. We’re here to help\! Stay tuned for Myth No. 12: <u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/does-unusual-marketing-raise-a-homes-price.html">Unusual marketing leads to higher prices</a></u>.
 
 ---
 
