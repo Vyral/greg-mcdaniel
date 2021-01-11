@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: The truth about the myth that unusual marketing will raise prices.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2021/Does+Unusual+Marketing+Raise+a+Home%E2%80%99s+Price_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
