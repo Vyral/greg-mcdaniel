@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/01-20-mcdaniel-youtube.jpg
-youtube_code: dP89n8DDhVw
+youtube_code: MFn9Cyq0UDE
 ---
 
 {% include youtube.html %}
