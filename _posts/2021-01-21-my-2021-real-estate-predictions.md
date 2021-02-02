@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: These are a few of my quick predictions about what the 2021 market will do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2021/My+2021+Real+Estate+Predictions.mp4
 pullquote: A lot of people are making major life shifts.
 enclosure_type: video/mp4
 enclosure_time:
