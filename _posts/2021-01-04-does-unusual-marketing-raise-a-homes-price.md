@@ -26,7 +26,7 @@ This myth is interesting because there are some things we real estate agents jus
 
 **We agents will do everything we can to get it sold with the best possible terms**, but advertising in creative ways such as in national publications or on television may not get your property the exposure it needs. It comes down to the understanding of both the agent and homeowner that this home has X, Y, and Z challenges and A, B, and C virtues. Let’s price it appropriately and get it sold.
 
-If you have any other questions about this myth or real estate in general, get a hold of me via phone or email. I’d be happy to help you. Don’t forget to come back to find out about our next selling myth—lucky number 13\!
+If you have any other questions about this myth or real estate in general, get a hold of me via phone or email. I’d be happy to help you. Don’t forget to come back to find out about our next selling myth—<u><a target="_blank" rel="noopener" href="https://mcdanielcallahanblog.com/do-home-improvements-really-pay-for-themselves.html">lucky number 13</a></u>\!
 
 ---
 
