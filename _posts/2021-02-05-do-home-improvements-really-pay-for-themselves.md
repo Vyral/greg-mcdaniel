@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Most home improvements don’t pay for themselves, but two do!'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+McDaniel/+Videos/2021/Do+Home+Improvements+Really+Pay+for+Themselves_+_+15+Home+Selling+Myths+to+Stop+Buying+Into.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
